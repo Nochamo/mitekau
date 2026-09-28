@@ -11,7 +11,7 @@ def fetch():
     app=os.environ.get("RAKUTEN_APPLICATION_ID"); key=os.environ.get("RAKUTEN_ACCESS_KEY")
     if not app or not key: raise SystemExit("Missing Rakuten API credentials")
     q=urllib.parse.urlencode({"applicationId":app,"accessKey":key,"format":"json","formatVersion":2})
-    req=urllib.request.Request(API+"?"+q,headers={"User-Agent":"MITEKAU-ranking-history/1.0","Accept":"application/json","Referer":"https://nochamo.github.io/"})
+    req=urllib.request.Request(API+"?"+q,headers={"User-Agent":"MITEKAU-ranking-history/1.0","Accept":"application/json","Referer":"https://nochamo.github.io/","Origin":"https://nochamo.github.io"})
     try:
         with urllib.request.urlopen(req,timeout=30) as r: return json.load(r)
     except urllib.error.HTTPError as e:
