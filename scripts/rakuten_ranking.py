@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, os, urllib.parse, urllib.request
+import json, os, urllib.parse, urllib.request, urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -11,8 +11,12 @@ def fetch():
     app=os.environ.get("RAKUTEN_APPLICATION_ID"); key=os.environ.get("RAKUTEN_ACCESS_KEY")
     if not app or not key: raise SystemExit("Missing Rakuten API credentials")
     q=urllib.parse.urlencode({"applicationId":app,"accessKey":key,"format":"json","formatVersion":2})
-    req=urllib.request.Request(API+"?"+q,headers={"User-Agent":"MITEKAU-ranking-history/1.0"})
-    with urllib.request.urlopen(req,timeout=30) as r: return json.load(r)
+    req=urllib.request.Request(API+"?"+q,headers={"User-Agent":"MITEKAU-ranking-history/1.0","Accept":"application/json"})
+    try:
+        with urllib.request.urlopen(req,timeout=30) as r: return json.load(r)
+    except urllib.error.HTTPError as e:
+        body=e.read().decode("utf-8","replace")
+        raise SystemExit(f"Rakuten API HTTP {e.code}: {body[:1000]}") from None
 
 def normalize(raw,now):
     items=[]
