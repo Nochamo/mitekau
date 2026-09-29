@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T00:27:28.735545+00:00",
+  "generatedAt": "2026-09-29T04:21:10.915728+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-09-28T20:19:03.342195+00:00"
+      "snapshotAt": "2026-09-29T00:27:28.735545+00:00"
     },
     "24h": {
       "status": "INSUFFICIENT_HISTORY",
@@ -15,5 +15,486 @@
     "RISING": "rank<=100 and (4h rise>=10 or 24h rise>=25)",
     "PROVEN": "rank<=50 and >=4 prior observations in ~24h and rank stayed<=100"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "itemCode": "skylark-group:10000588",
+      "rank": 1,
+      "itemName": "【クーポンご利用で50%OFF！9,960円⇒4,980円！期間限定SALE】冷凍食品 惣菜 餃子 炒飯 / バーミヤンスペシャルセット（8種10袋） / ギョーザ ぎょうざ 冷凍餃子 焼売 小籠包 ビーフン キムチ炒飯 中華惣菜 お惣菜 おかず 弁当 フライパン調理",
+      "itemPrice": "9960",
+      "reviewAverage": "4.58",
+      "reviewCount": 96,
+      "itemUrl": "https://item.rakuten.co.jp/skylark-group/24stbmbsp/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "mochikichi:10001625",
+      "rank": 2,
+      "itemName": "【予約商品】福岡くん。×YOASOBIコラボ缶セット【国産米100％ 6種28袋 缶】",
+      "itemPrice": "8640",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/mochikichi/73036/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "skylark-group:10000483",
+      "rank": 3,
+      "itemName": "【クーポンご利用で50%OFF！8,990円⇒4,495円！期間限定SALE】冷凍食品 惣菜 ハンバーグ から揚げ/すかいらーく 洋食スペシャルセット（5種8袋）/冷凍ハンバーグ デミグラスソース ピラフ ポテト ピザ 洋食 洋風惣菜 お惣菜 おかず 弁当",
+      "itemPrice": "8990",
+      "reviewAverage": "4.23",
+      "reviewCount": 39,
+      "itemUrl": "https://item.rakuten.co.jp/skylark-group/23styoksp/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "mochikichi:10001624",
+      "rank": 4,
+      "itemName": "【予約商品】福岡くん。×YOASOBIコラボ缶（ピンク）【国産米100％ 6種28袋 缶】",
+      "itemPrice": "4980",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/mochikichi/73034/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100944",
+      "rank": 5,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (通常盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790539/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100943",
+      "rank": 6,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (小泉光咲盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790541/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "hm-mart:10000356",
+      "rank": 7,
+      "itemName": "徳島県産コシヒカリ 一等米 単一原料米 新米 産地直送 令和8年産 5kg 白米 米 お米 国産 家庭用 定食 ご飯 ハンバーグ とんかつ 粘り ふっくら hmm-x01022",
+      "itemPrice": "4980",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/hm-mart/hmm-x01022/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 8,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14790",
+      "reviewAverage": "4.76",
+      "reviewCount": 805,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100941",
+      "rank": 9,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (桜木雅哉盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790543/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 10,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 14977,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 11,
+      "itemName": "300円OFFクーポンあり★食いしんぼう祭 炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2550",
+      "reviewAverage": "4.67",
+      "reviewCount": 17790,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "pricon:10000128",
+      "rank": 12,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー モイスト 90枚パック 2箱セット 1日使い捨て コンタクトレンズ （コンタクト ワンデー / ジョンソン&ジョンソン / 1day）",
+      "itemPrice": "13530",
+      "reviewAverage": "4.66",
+      "reviewCount": 8151,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "brighte-onlineshop:10000000",
+      "rank": 13,
+      "itemName": "＜今なら19,800円相当！＞ELEKI LIFT 【公式】美顔器 リフトアップ ブライト エレキリフト / Brighte 美顔器 | ems 美容 美容家電 角質汚れ フェイスライン エイジングケア クーポン適応条件あり",
+      "itemPrice": "58000",
+      "reviewAverage": "4.16",
+      "reviewCount": 724,
+      "itemUrl": "https://item.rakuten.co.jp/brighte-onlineshop/brt-fl170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22095438",
+      "rank": 14,
+      "itemName": "ゼルダの伝説 時のオカリナ",
+      "itemPrice": "7768",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "wwpc:10064892",
+      "rank": 15,
+      "itemName": "ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト(4kg)【ロイヤルカナン療法食】",
+      "itemPrice": "9198",
+      "reviewAverage": "4.66",
+      "reviewCount": 2818,
+      "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100949",
+      "rank": 16,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (武藤潤盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790544/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100950",
+      "rank": 17,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (杢代和人盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790542/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100948",
+      "rank": 18,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (吉澤要人盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790545/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "netbaby:10028506",
+      "rank": 19,
+      "itemName": "【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】",
+      "itemPrice": "5721",
+      "reviewAverage": "4.79",
+      "reviewCount": 8745,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "irisplaza-r:10170526",
+      "rank": 20,
+      "itemName": "＼1袋1,960円～／【令和7年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3袋) 密封新鮮パック 脱酸素剤入り 米 お米 国産 10キロ 15キロ 低温製法米 送料無料 アイリスオーヤマ",
+      "itemPrice": "3980",
+      "reviewAverage": "4.7",
+      "reviewCount": 8238,
+      "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100945",
+      "rank": 21,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (長野凌大盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790546/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "kouragumi:10001520",
+      "rank": 22,
+      "itemName": "お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】【国産無塩小中型のみ入荷次第発送】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 19564,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22063696",
+      "rank": 23,
+      "itemName": "【先着特典】AMENITY (初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
+      "itemPrice": "11866",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "lens-1:10002142",
+      "rank": 24,
+      "itemName": "シード ワンデーピュア うるおいプラス 96枚入×2箱 ( コンタクト 1日使い捨て ワンデー 1day シード seed ピュア Pure うるおいプラス ワンデーピュアうるおいプラス 96枚入り 2箱セット )",
+      "itemPrice": "8970",
+      "reviewAverage": "4.78",
+      "reviewCount": 6727,
+      "itemUrl": "https://item.rakuten.co.jp/lens-1/1pureup96p_02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "candymagic:10000575",
+      "rank": 25,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30264,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "netshopkako:10005565",
+      "rank": 26,
+      "itemName": "ぬかのめぐみ 食べる 米ぬかパウダー 国産 200g",
+      "itemPrice": "1880",
+      "reviewAverage": "4.67",
+      "reviewCount": 39,
+      "itemUrl": "https://item.rakuten.co.jp/netshopkako/compass1781748918/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22100951",
+      "rank": 27,
+      "itemName": "【楽天ブックス限定先着特典+早期予約特典】【クレジットカード決済限定】【シリアル対象】【第2回】ラブリーズン (大倉空人盤)(アクリルチャーム（全7種のうちランダム1種）+シリアルナンバー) [ 原因は自分にある。 ]",
+      "itemPrice": "1650",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18790540/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22110960",
+      "rank": 28,
+      "itemName": "【楽天ブックス限定先着特典+先着特典】【クレジットカード決済限定】【シリアル対象】MEGA GOLDEN (通常盤)初回プレス))(アクリルチャーム(ランダム1つ/全5種)+イベント応募用シリアルナンバー(1回目)) [ ONE N' ONLY ]",
+      "itemPrice": "3300",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18822007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "irisplaza-r:10136708",
+      "rank": 29,
+      "itemName": "[300円OFFクーポン/食いしんぼう祭]【公式】水 500ml 48本 送料無料 天然水 ミネラルウォーター ラベルレス 48本 富士山の天然水 まとめ買い 水 ストック 軟水 【代引不可】",
+      "itemPrice": "2280",
+      "reviewAverage": "4.62",
+      "reviewCount": 5948,
+      "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/310999-cp/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "lensfree:10000056",
+      "rank": 30,
+      "itemName": "メダリストワンデープラス 90枚パック ×2箱セット ボシュロム コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て",
+      "itemPrice": "5705",
+      "reviewAverage": "4.78",
+      "reviewCount": 1934,
+      "itemUrl": "https://item.rakuten.co.jp/lensfree/bl1dmp90-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    }
+  ]
 }
