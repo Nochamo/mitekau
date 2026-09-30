@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T08:24:06.371385+00:00",
+  "generatedAt": "2026-09-30T12:30:12.119028+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-09-30T04:22:47.521217+00:00"
+      "snapshotAt": "2026-09-30T08:24:06.371385+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-09-29T08:23:22.580963+00:00"
+      "snapshotAt": "2026-09-29T12:26:53.736071+00:00"
     }
   },
   "rules": {
@@ -16,57 +16,6 @@
     "PROVEN": "rank<=50 and >=4 prior observations in ~24h and rank stayed<=100"
   },
   "candidates": [
-    {
-      "itemCode": "book:22063696",
-      "rank": 10,
-      "itemName": "【先着特典】AMENITY (初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
-      "itemPrice": "11866",
-      "reviewAverage": "5.0",
-      "reviewCount": 2,
-      "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 18,
-      "change24h": 18,
-      "observations24h": 7,
-      "labels": [
-        "RISING",
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "earth-contact:10000641",
-      "rank": 13,
-      "itemName": "ワンデーアキュビューオアシス 90枚パック 2~8箱セット ( 1日使い捨て ワンデー 1day ) コンタクトレンズ ワンデー ワンデーアキュビュー アキュビューオアシス アキュビュー コンタクトレンズ コンタクト ワンデーコンタクト ジョンソン ワンデーオアシス 近視 遠視",
-      "itemPrice": "14780",
-      "reviewAverage": "4.68",
-      "reviewCount": 1438,
-      "itemUrl": "https://item.rakuten.co.jp/earth-contact/1doa90-02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 11,
-      "change24h": 11,
-      "observations24h": 7,
-      "labels": [
-        "RISING",
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "book:22110960",
-      "rank": 16,
-      "itemName": "【楽天ブックス限定先着特典+先着特典】【クレジットカード決済限定】【シリアル対象】MEGA GOLDEN (通常盤)初回プレス))(アクリルチャーム(ランダム1つ/全5種)+イベント応募用シリアルナンバー(1回目)) [ ONE N' ONLY ]",
-      "itemPrice": "3300",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/book/18822007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 14,
-      "change24h": 14,
-      "observations24h": 7,
-      "labels": [
-        "RISING",
-        "PROVEN"
-      ]
-    },
     {
       "itemCode": "book:22095437",
       "rank": 2,
@@ -92,7 +41,7 @@
       "reviewCount": 809,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 5,
+      "change4h": 0,
       "change24h": 5,
       "observations24h": 7,
       "labels": [
@@ -108,7 +57,7 @@
       "reviewCount": 14990,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 5,
+      "change4h": 0,
       "change24h": 5,
       "observations24h": 7,
       "labels": [
@@ -124,7 +73,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18821980/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -5,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 7,
       "labels": [
@@ -140,7 +89,7 @@
       "reviewCount": 1,
       "itemUrl": "https://item.rakuten.co.jp/hm-mart/hmm-x01022/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 8,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 7,
       "labels": [
@@ -156,8 +105,24 @@
       "reviewCount": 1,
       "itemUrl": "https://item.rakuten.co.jp/motorola-officialstore/moto-g66j-5g/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -4,
+      "change4h": 0,
       "change24h": -4,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22063696",
+      "rank": 10,
+      "itemName": "【先着特典】AMENITY (初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
+      "itemPrice": "11866",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": 18,
       "observations24h": 7,
       "labels": [
         "PROVEN"
@@ -172,8 +137,24 @@
       "reviewCount": 8152,
       "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 1,
+      "change4h": 0,
       "change24h": 1,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "earth-contact:10000641",
+      "rank": 13,
+      "itemName": "ワンデーアキュビューオアシス 90枚パック 2~8箱セット ( 1日使い捨て ワンデー 1day ) コンタクトレンズ ワンデー ワンデーアキュビュー アキュビューオアシス アキュビュー コンタクトレンズ コンタクト ワンデーコンタクト ジョンソン ワンデーオアシス 近視 遠視",
+      "itemPrice": "14780",
+      "reviewAverage": "4.68",
+      "reviewCount": 1438,
+      "itemUrl": "https://item.rakuten.co.jp/earth-contact/1doa90-02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": 11,
       "observations24h": 7,
       "labels": [
         "PROVEN"
@@ -188,8 +169,24 @@
       "reviewCount": 17810,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -2,
+      "change4h": 0,
       "change24h": -2,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22110960",
+      "rank": 16,
+      "itemName": "【楽天ブックス限定先着特典+先着特典】【クレジットカード決済限定】【シリアル対象】MEGA GOLDEN (通常盤)初回プレス))(アクリルチャーム(ランダム1つ/全5種)+イベント応募用シリアルナンバー(1回目)) [ ONE N' ONLY ]",
+      "itemPrice": "3300",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18822007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": 14,
       "observations24h": 7,
       "labels": [
         "PROVEN"
@@ -220,7 +217,7 @@
       "reviewCount": 8339,
       "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 2,
+      "change4h": 0,
       "change24h": 2,
       "observations24h": 7,
       "labels": [
@@ -236,7 +233,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/mochikichi/73036/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -15,
+      "change4h": 0,
       "change24h": -15,
       "observations24h": 7,
       "labels": [
@@ -252,7 +249,7 @@
       "reviewCount": 6851,
       "itemUrl": "https://item.rakuten.co.jp/kurashikenkou/312068/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -3,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 7,
       "labels": [
@@ -268,7 +265,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18821978/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -19,
+      "change4h": 0,
       "change24h": -19,
       "observations24h": 7,
       "labels": [
@@ -284,7 +281,7 @@
       "reviewCount": 2821,
       "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -4,
+      "change4h": 0,
       "change24h": -4,
       "observations24h": 7,
       "labels": [
@@ -300,7 +297,7 @@
       "reviewCount": 19608,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -4,
+      "change4h": 0,
       "change24h": -4,
       "observations24h": 7,
       "labels": [
@@ -316,7 +313,7 @@
       "reviewCount": 1942,
       "itemUrl": "https://item.rakuten.co.jp/lensfree/bl1dmp90-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 2,
+      "change4h": 0,
       "change24h": 2,
       "observations24h": 7,
       "labels": [
@@ -332,7 +329,7 @@
       "reviewCount": 40181,
       "itemUrl": "https://item.rakuten.co.jp/queeneyes/evercolor_natural/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -4,
+      "change4h": 0,
       "change24h": -4,
       "observations24h": 7,
       "labels": [
