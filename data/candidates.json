@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T00:29:13.077768+00:00",
+  "generatedAt": "2026-09-30T04:22:47.521217+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-09-29T20:21:44.495572+00:00"
+      "snapshotAt": "2026-09-30T00:29:13.077768+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-09-29T00:27:28.735545+00:00"
+      "snapshotAt": "2026-09-29T04:21:10.915728+00:00"
     }
   },
   "rules": {
@@ -27,7 +27,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -43,7 +43,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -59,7 +59,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -75,7 +75,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -107,7 +107,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -171,7 +171,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -187,7 +187,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -235,7 +235,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -267,7 +267,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -299,7 +299,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -363,7 +363,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -395,7 +395,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -411,7 +411,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
@@ -427,7 +427,7 @@
       "affiliateUrl": "",
       "change4h": 0,
       "change24h": null,
-      "observations24h": 5,
+      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
