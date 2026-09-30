@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T20:21:44.495572+00:00",
+  "generatedAt": "2026-09-30T00:29:13.077768+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-09-29T16:23:50.805913+00:00"
+      "snapshotAt": "2026-09-29T20:21:44.495572+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-09-28T20:19:03.342195+00:00"
+      "snapshotAt": "2026-09-29T00:27:28.735545+00:00"
     }
   },
   "rules": {
@@ -16,6 +16,70 @@
     "PROVEN": "rank<=50 and >=4 prior observations in ~24h and rank stayed<=100"
   },
   "candidates": [
+    {
+      "itemCode": "book:22115806",
+      "rank": 1,
+      "itemName": "【楽天ブックス限定配送BOX】【先着特典】映画「おそ松さん 人類クズ化計画!!!!!?」 超豪華コンプリートBOX【Blu-ray】(ヘソクリミニ封筒入りスマホサイズステッカーセット) [ Aぇ! group ]",
+      "itemPrice": "12540",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18821980/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22095437",
+      "rank": 2,
+      "itemName": "【楽天ブックス限定特典+特典】ゼルダの伝説 時のオカリナ(ディスプレイセット（木製ジオラマスタンド＋クリーニングクロス）+【早期購入外付特典】オリジナルアートカードセット、オリジナルステッカー)",
+      "itemPrice": "8980",
+      "reviewAverage": "5.0",
+      "reviewCount": 3,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805294/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22115798",
+      "rank": 3,
+      "itemName": "【楽天ブックス限定配送BOX】【先着特典】映画「おそ松さん 人類クズ化計画!!!!!?」 超豪華コンプリートBOX(ヘソクリミニ封筒入りスマホサイズステッカーセット) [ Aぇ! group ]",
+      "itemPrice": "10450",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18821978/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "motorola-officialstore:10000006",
+      "rank": 4,
+      "itemName": "モトローラ Motorola スマートフォン moto g66j 5G 128GB microSD 日本国内保証 ディルグリーン グレーミスト ブラックオイスター 全3色 Android SIMフリー",
+      "itemPrice": "27800",
+      "reviewAverage": "5.0",
+      "reviewCount": 1,
+      "itemUrl": "https://item.rakuten.co.jp/motorola-officialstore/moto-g66j-5g/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
     {
       "itemCode": "mochikichi:10001625",
       "rank": 5,
@@ -28,6 +92,22 @@
       "change4h": 0,
       "change24h": -3,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "bunbougu-shibuya:10159192",
+      "rank": 6,
+      "itemName": "サンリオキャラクターズ　ボンボンドロップシール　churukira　ハローキティ/ポムポムプリン/シナモロール/クロミ/はぴだんぶい柄　[M便 1/6]［予約販売10月中旬頃発送予定］",
+      "itemPrice": "880",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/bunbougu-shibuya/scs88154/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -81,6 +161,38 @@
       ]
     },
     {
+      "itemCode": "book:22115425",
+      "rank": 10,
+      "itemName": "【特典】GIANNA Plus #12 cover 原因は自分にある。(オリジナルステッカー)",
+      "itemPrice": "2200",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18817609/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "noris-collection:10008991",
+      "rank": 11,
+      "itemName": "【1月予約】【送料無料】トイ・ストーリー シドが来た！ 全4種 コンプリート",
+      "itemPrice": "2250",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/noris-collection/15347714195614/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "pricon:10000128",
       "rank": 12,
       "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー モイスト 90枚パック 2箱セット 1日使い捨て コンタクトレンズ （コンタクト ワンデー / ジョンソン&ジョンソン / 1day）",
@@ -113,6 +225,22 @@
       ]
     },
     {
+      "itemCode": "hobbyzakka-cha3:10009358",
+      "rank": 14,
+      "itemName": "【2027年1月予約】トイストーリー シドが来た！全4種 コンプリートセット ガチャ 送料無料",
+      "itemPrice": "2280",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/hobbyzakka-cha3/ho6967/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "hm-mart:10000356",
       "rank": 15,
       "itemName": "徳島県産コシヒカリ 一等米 単一原料米 新米 産地直送 令和8年産 5kg 白米 米 お米 国産 家庭用 定食 ご飯 ハンバーグ とんかつ 粘り ふっくら hmm-x01022",
@@ -129,6 +257,22 @@
       ]
     },
     {
+      "itemCode": "book:22115803",
+      "rank": 16,
+      "itemName": "映画「おそ松さん 人類クズ化計画!!!!!?」 超豪華コンプリートBOX【Blu-ray】 [ Aぇ! group ]",
+      "itemPrice": "10560",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18821977/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "candymagic:10000575",
       "rank": 17,
       "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
@@ -140,6 +284,22 @@
       "change4h": 0,
       "change24h": 8,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "kurashikenkou:10225574",
+      "rank": 18,
+      "itemName": "＼緑茶ラベルレスとフレーバー24本が激アツ価格！／お茶 緑茶 ほうじ茶 ペットボトル 500ml 24本 48本 選べる ラベルレス 密閉抽出 香り高い 旨みすっきり 飲みやすい 食事 朝に合う まとめ買い 箱買い ケース アイリスのお茶 緑 焙じ茶 アイリスオーヤマ アイリスフーズ *",
+      "itemPrice": "1180",
+      "reviewAverage": "4.75",
+      "reviewCount": 6839,
+      "itemUrl": "https://item.rakuten.co.jp/kurashikenkou/312068/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -193,6 +353,22 @@
       ]
     },
     {
+      "itemCode": "kouragumi:10000207",
+      "rank": 22,
+      "itemName": "赤字覚悟のお試し送料無料4,999円！北海道産の【訳あり】割れ/不揃い/小サイズ 生ほたて貝柱どっさり1kg 帆立 ホタテ ほたて【P】",
+      "itemPrice": "4999",
+      "reviewAverage": "4.55",
+      "reviewCount": 14880,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/200240/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "lens-1:10002142",
       "rank": 23,
       "itemName": "シード ワンデーピュア うるおいプラス 96枚入×2箱 ( コンタクト 1日使い捨て ワンデー 1day シード seed ピュア Pure うるおいプラス ワンデーピュアうるおいプラス 96枚入り 2箱セット )",
@@ -204,6 +380,54 @@
       "change4h": 0,
       "change24h": 1,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "earth-contact:10000641",
+      "rank": 24,
+      "itemName": "ワンデーアキュビューオアシス 90枚パック 2~8箱セット ( 1日使い捨て ワンデー 1day ) コンタクトレンズ ワンデー ワンデーアキュビュー アキュビューオアシス アキュビュー コンタクトレンズ コンタクト ワンデーコンタクト ジョンソン ワンデーオアシス 近視 遠視",
+      "itemPrice": "14780",
+      "reviewAverage": "4.68",
+      "reviewCount": 1438,
+      "itemUrl": "https://item.rakuten.co.jp/earth-contact/1doa90-02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "queeneyes:10000234",
+      "rank": 25,
+      "itemName": "【限定カラー】【クーポン利用で20%OFF】 エバーカラー ワンデー ナチュラル (1箱20枚入り)( 送料無料 カラコン カラーコンタクト 度あり 度入り 度なし ワンデー 1day コンタクト エバーカラー エバーカラーワンデー エバカラ パールベージュ など )【新木優子】",
+      "itemPrice": "2598",
+      "reviewAverage": "4.37",
+      "reviewCount": 40181,
+      "itemUrl": "https://item.rakuten.co.jp/queeneyes/evercolor_natural/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "auc-fukumishouji:10028333",
+      "rank": 26,
+      "itemName": "チェゴシム クリアめじるしフィギュア 全5種セット 【2027年1月予約/コンプリート】",
+      "itemPrice": "2500",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/auc-fukumishouji/3901nic8/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
