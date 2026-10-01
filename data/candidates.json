@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T20:21:20.322580+00:00",
+  "generatedAt": "2026-10-01T00:30:07.887195+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-09-30T16:24:40.228986+00:00"
+      "snapshotAt": "2026-09-30T20:21:20.322580+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-09-29T20:21:44.495572+00:00"
+      "snapshotAt": "2026-09-30T00:29:13.077768+00:00"
     }
   },
   "rules": {
@@ -16,6 +16,22 @@
     "PROVEN": "rank<=50 and >=4 prior observations in ~24h and rank stayed<=100"
   },
   "candidates": [
+    {
+      "itemCode": "kaihyaku:10007195",
+      "rank": 1,
+      "itemName": "【9/29販売分10,000個完売しました】アズマ公式 アズマジック 浴室用ソフトブラシ お風呂掃除 ブラシ 浴槽ブラシ バスブラシ やわらか毛 泡立ち 水切れ 浴槽 壁 床 浴室ブラシ BT763",
+      "itemPrice": "1240",
+      "reviewAverage": "4.73",
+      "reviewCount": 776,
+      "itemUrl": "https://item.rakuten.co.jp/kaihyaku/479046/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
     {
       "itemCode": "book:22095437",
       "rank": 2,
@@ -60,6 +76,22 @@
       "change4h": 0,
       "change24h": 5,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "yama-oatmeal-institute:10000024",
+      "rank": 5,
+      "itemName": "[7年産米売り尽くし特価10kg3,700円！10月2日9:59まで] 令和7年産 ブレンド米 極味精米 5kg 10kg 20kg ( きわみせいまい こめ お米 米 白米 全国 送料無料 （北海道 沖縄 離島含む） ブレンド米 安い 生活応援米 備蓄米 不使用 10キロ 5キロ ) 山川食糧",
+      "itemPrice": "3700",
+      "reviewAverage": "4.49",
+      "reviewCount": 6360,
+      "itemUrl": "https://item.rakuten.co.jp/yama-oatmeal-institute/kiwamiseimai10/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -113,6 +145,22 @@
       ]
     },
     {
+      "itemCode": "yamada-denki:10674982",
+      "rank": 9,
+      "itemName": "PlayStation(R)5 デジタル・エディション 日本語専用 Console Language: Japanese only CFI-2200B01",
+      "itemPrice": "55000",
+      "reviewAverage": "4.46",
+      "reviewCount": 54,
+      "itemUrl": "https://item.rakuten.co.jp/yamada-denki/7999577018/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "book:22063696",
       "rank": 10,
       "itemName": "【先着特典】AMENITY (初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
@@ -145,6 +193,22 @@
       ]
     },
     {
+      "itemCode": "book:22116827",
+      "rank": 12,
+      "itemName": "【楽天ブックス限定先着特典】スペシャルズ 豪華版【Blu-ray】(オリジナルワードローブカレンダー(ボックスカラー：赤)) [ 佐久間大介 ]",
+      "itemPrice": "9790",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18815301/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "earth-contact:10000641",
       "rank": 13,
       "itemName": "ワンデーアキュビューオアシス 90枚パック 2~8箱セット ( 1日使い捨て ワンデー 1day ) コンタクトレンズ ワンデー ワンデーアキュビュー アキュビューオアシス アキュビュー コンタクトレンズ コンタクト ワンデーコンタクト ジョンソン ワンデーオアシス 近視 遠視",
@@ -156,6 +220,22 @@
       "change4h": 0,
       "change24h": 11,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:21983962",
+      "rank": 14,
+      "itemName": "【特典】ACE COMBAT 8: WINGS OF THEVE(【早期購入封入特典】DLC)",
+      "itemPrice": "8321",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18663067/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -204,6 +284,22 @@
       "change4h": 0,
       "change24h": 0,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:21996366",
+      "rank": 18,
+      "itemName": "【楽天ブックス限定先着特典】POPS (通常盤)(マルチクリアポーチ) [ Mrs.GREEN APPLE ]",
+      "itemPrice": "3300",
+      "reviewAverage": "4.5",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18675238/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -321,6 +417,54 @@
       ]
     },
     {
+      "itemCode": "neomamaism:10000004",
+      "rank": 26,
+      "itemName": "キッズデザイン賞！ ネオママイズム 新生児 折りたたみ ベッドインベッド 使用月齢：新生児〜18ヶ月 送料無料 ベビーベッド 洗濯機丸洗いOK 軽量 携帯用バッグ付き ギフト 出産祝い クーファン ベビー布団 ベットインベット neomamaism",
+      "itemPrice": "15750",
+      "reviewAverage": "4.52",
+      "reviewCount": 1620,
+      "itemUrl": "https://item.rakuten.co.jp/neomamaism/nb21bbdg/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "i-need-more-shoes:10000553",
+      "rank": 27,
+      "itemName": "【yuki (ドキ子)さん ROOMコラボ】サボ ミュール レディース オブリークトゥ チャンキーヒール サボサンダル ミュールサンダル 4cmヒール 太ヒール スクエアトゥ ブラック ブラウン yuki ドキ子 レディース 送料無料 アイニード ineedmores hoes [yk-2560]",
+      "itemPrice": "6330",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/i-need-more-shoes/20000024/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "brighte-onlineshop:10000000",
+      "rank": 28,
+      "itemName": "＜今なら19,800円相当！＞【イベント開催中】 ELEKI LIFT 【公式】美顔器 リフトアップ ブライト エレキリフト / Brighte 美顔器 | ems 美容 美容家電 角質汚れ フェイスライン エイジングケア クーポン適応条件あり",
+      "itemPrice": "58000",
+      "reviewAverage": "4.16",
+      "reviewCount": 728,
+      "itemUrl": "https://item.rakuten.co.jp/brighte-onlineshop/brt-fl170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "queeneyes:10000234",
       "rank": 29,
       "itemName": "【限定カラー】【クーポン利用で20%OFF】 エバーカラー ワンデー ナチュラル (1箱20枚入り)( 送料無料 カラコン カラーコンタクト 度あり 度入り 度なし ワンデー 1day コンタクト エバーカラー エバーカラーワンデー エバカラ パールベージュ など )【新木優子】",
@@ -332,6 +476,22 @@
       "change4h": 0,
       "change24h": -4,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22070141",
+      "rank": 30,
+      "itemName": "【楽天ブックス限定先着特典】きっと！ (初回生産限定盤 2CD＋Blu-ray)(オリジナルアクリルキーホルダー) [ 小田和正 ]",
+      "itemPrice": "7700",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18771171/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
