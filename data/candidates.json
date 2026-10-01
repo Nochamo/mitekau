@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T04:22:30.979615+00:00",
+  "generatedAt": "2026-10-01T08:24:37.747023+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-10-01T00:30:07.887195+00:00"
+      "snapshotAt": "2026-10-01T04:22:30.979615+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-09-30T04:22:47.521217+00:00"
+      "snapshotAt": "2026-09-30T08:24:06.371385+00:00"
     }
   },
   "rules": {
@@ -17,96 +17,50 @@
   },
   "candidates": [
     {
-      "itemCode": "kaihyaku:10007195",
-      "rank": 1,
-      "itemName": "【9/29販売分10,000個完売しました】アズマ公式 アズマジック 浴室用ソフトブラシ お風呂掃除 ブラシ 浴槽ブラシ バスブラシ やわらか毛 泡立ち 水切れ 浴槽 壁 床 浴室ブラシ BT763",
-      "itemPrice": "1240",
-      "reviewAverage": "4.73",
-      "reviewCount": 776,
-      "itemUrl": "https://item.rakuten.co.jp/kaihyaku/479046/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemCode": "kouragumi:10001520",
+      "rank": 7,
+      "itemName": "今夜23:59までP3倍★お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】【国産無塩小中型のみ入荷次第発送】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 19634,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
+      "change4h": 17,
+      "change24h": 17,
+      "observations24h": 7,
       "labels": [
+        "RISING",
         "PROVEN"
       ]
     },
     {
-      "itemCode": "book:22095437",
-      "rank": 2,
-      "itemName": "【楽天ブックス限定特典+特典】ゼルダの伝説 時のオカリナ(ディスプレイセット（木製ジオラマスタンド＋クリーニングクロス）+【早期購入外付特典】オリジナルアートカードセット、オリジナルステッカー)",
-      "itemPrice": "8980",
-      "reviewAverage": "5.0",
-      "reviewCount": 4,
-      "itemUrl": "https://item.rakuten.co.jp/book/18805294/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemCode": "neomamaism:10000004",
+      "rank": 10,
+      "itemName": "キッズデザイン賞！ ネオママイズム 新生児 折りたたみ ベッドインベッド 使用月齢：新生児〜18ヶ月 送料無料 ベビーベッド 洗濯機丸洗いOK 軽量 携帯用バッグ付き ギフト 出産祝い クーファン ベビー布団 ベットインベット neomamaism",
+      "itemPrice": "15750",
+      "reviewAverage": "4.52",
+      "reviewCount": 1622,
+      "itemUrl": "https://item.rakuten.co.jp/neomamaism/nb21bbdg/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 0,
+      "change4h": 16,
+      "change24h": 16,
       "observations24h": 7,
       "labels": [
+        "RISING",
         "PROVEN"
       ]
     },
     {
       "itemCode": "pricon:10003151",
-      "rank": 3,
+      "rank": 1,
       "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
       "itemPrice": "14790",
       "reviewAverage": "4.76",
-      "reviewCount": 809,
+      "reviewCount": 813,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 5,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "teamo:10001200",
-      "rank": 4,
-      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
-      "itemPrice": "1986",
-      "reviewAverage": "4.56",
-      "reviewCount": 14990,
-      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 5,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "yama-oatmeal-institute:10000024",
-      "rank": 5,
-      "itemName": "[7年産米売り尽くし特価10kg3,700円！10月2日9:59まで] 令和7年産 ブレンド米 極味精米 5kg 10kg 20kg ( きわみせいまい こめ お米 米 白米 全国 送料無料 （北海道 沖縄 離島含む） ブレンド米 安い 生活応援米 備蓄米 不使用 10キロ 5キロ ) 山川食糧",
-      "itemPrice": "3700",
-      "reviewAverage": "4.49",
-      "reviewCount": 6360,
-      "itemUrl": "https://item.rakuten.co.jp/yama-oatmeal-institute/kiwamiseimai10/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "book:22115806",
-      "rank": 6,
-      "itemName": "【楽天ブックス限定配送BOX】【先着特典】映画「おそ松さん 人類クズ化計画!!!!!?」 超豪華コンプリートBOX【Blu-ray】(ヘソクリミニ封筒入りスマホサイズステッカーセット) [ Aぇ! group ]",
-      "itemPrice": "12540",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/book/18821980/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": -5,
+      "change4h": 2,
+      "change24h": 2,
       "observations24h": 7,
       "labels": [
         "PROVEN"
@@ -114,30 +68,62 @@
     },
     {
       "itemCode": "hm-mart:10000356",
-      "rank": 7,
+      "rank": 2,
       "itemName": "徳島県産コシヒカリ 一等米 単一原料米 新米 産地直送 令和8年産 5kg 白米 米 お米 国産 家庭用 定食 ご飯 ハンバーグ とんかつ 粘り ふっくら hmm-x01022",
       "itemPrice": "4980",
       "reviewAverage": "5.0",
       "reviewCount": 1,
       "itemUrl": "https://item.rakuten.co.jp/hm-mart/hmm-x01022/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 8,
+      "change4h": 5,
+      "change24h": 5,
       "observations24h": 7,
       "labels": [
         "PROVEN"
       ]
     },
     {
-      "itemCode": "motorola-officialstore:10000006",
-      "rank": 8,
-      "itemName": "モトローラ Motorola スマートフォン moto g66j 5G 128GB microSD 日本国内保証 ディルグリーン グレーミスト ブラックオイスター 全3色 Android SIMフリー",
-      "itemPrice": "27800",
+      "itemCode": "book:22063696",
+      "rank": 5,
+      "itemName": "【先着特典】AMENITY (初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
+      "itemPrice": "11866",
       "reviewAverage": "5.0",
-      "reviewCount": 1,
-      "itemUrl": "https://item.rakuten.co.jp/motorola-officialstore/moto-g66j-5g/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": 5,
+      "change24h": 5,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 6,
+      "itemName": "【食フェスクーポンあり♪10/3まで】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2550",
+      "reviewAverage": "4.67",
+      "reviewCount": 17828,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 9,
+      "change24h": 9,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 8,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 14993,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": -4,
       "change24h": -4,
       "observations24h": 7,
       "labels": [
@@ -145,32 +131,48 @@
       ]
     },
     {
-      "itemCode": "yamada-denki:10674982",
+      "itemCode": "book:22095437",
       "rank": 9,
-      "itemName": "PlayStation(R)5 デジタル・エディション 日本語専用 Console Language: Japanese only CFI-2200B01",
-      "itemPrice": "55000",
-      "reviewAverage": "4.46",
-      "reviewCount": 54,
-      "itemUrl": "https://item.rakuten.co.jp/yamada-denki/7999577018/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemName": "【楽天ブックス限定特典+特典】ゼルダの伝説 時のオカリナ(ディスプレイセット（木製ジオラマスタンド＋クリーニングクロス）+【早期購入外付特典】オリジナルアートカードセット、オリジナルステッカー)",
+      "itemPrice": "8980",
+      "reviewAverage": "5.0",
+      "reviewCount": 4,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805294/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
+      "change4h": -7,
+      "change24h": -7,
+      "observations24h": 7,
       "labels": [
         "PROVEN"
       ]
     },
     {
-      "itemCode": "book:22063696",
-      "rank": 10,
-      "itemName": "【先着特典】AMENITY (初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
-      "itemPrice": "11866",
-      "reviewAverage": "5.0",
-      "reviewCount": 2,
-      "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemCode": "kurashikenkou:10225574",
+      "rank": 12,
+      "itemName": "＼緑茶ラベルレスとフレーバー24本が激アツ価格！／お茶 緑茶 ほうじ茶 ペットボトル 500ml 24本 48本 選べる ラベルレス 密閉抽出 香り高い 旨みすっきり 飲みやすい 食事 朝に合う まとめ買い 箱買い ケース アイリスのお茶 緑 焙じ茶 アイリスオーヤマ アイリスフーズ *",
+      "itemPrice": "1180",
+      "reviewAverage": "4.75",
+      "reviewCount": 6870,
+      "itemUrl": "https://item.rakuten.co.jp/kurashikenkou/312068/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 18,
+      "change4h": 9,
+      "change24h": 9,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "yama-oatmeal-institute:10000024",
+      "rank": 13,
+      "itemName": "[7年産米売り尽くし特価10kg3,700円！10月2日9:59まで] 令和7年産 ブレンド米 極味精米 5kg 10kg 20kg ( きわみせいまい こめ お米 米 白米 全国 送料無料 （北海道 沖縄 離島含む） ブレンド米 安い 生活応援米 備蓄米 不使用 10キロ 5キロ ) 山川食糧",
+      "itemPrice": "3700",
+      "reviewAverage": "4.49",
+      "reviewCount": 6364,
+      "itemUrl": "https://item.rakuten.co.jp/yama-oatmeal-institute/kiwamiseimai10/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": -8,
+      "change24h": -8,
       "observations24h": 7,
       "labels": [
         "PROVEN"
@@ -178,79 +180,31 @@
     },
     {
       "itemCode": "pricon:10000128",
-      "rank": 11,
+      "rank": 14,
       "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー モイスト 90枚パック 2箱セット 1日使い捨て コンタクトレンズ （コンタクト ワンデー / ジョンソン&ジョンソン / 1day）",
       "itemPrice": "13530",
       "reviewAverage": "4.66",
       "reviewCount": 8152,
       "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 1,
+      "change4h": -3,
+      "change24h": -3,
       "observations24h": 7,
       "labels": [
         "PROVEN"
       ]
     },
     {
-      "itemCode": "book:22116827",
-      "rank": 12,
-      "itemName": "【楽天ブックス限定先着特典】スペシャルズ 豪華版【Blu-ray】(オリジナルワードローブカレンダー(ボックスカラー：赤)) [ 佐久間大介 ]",
-      "itemPrice": "9790",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/book/18815301/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "earth-contact:10000641",
-      "rank": 13,
-      "itemName": "ワンデーアキュビューオアシス 90枚パック 2~8箱セット ( 1日使い捨て ワンデー 1day ) コンタクトレンズ ワンデー ワンデーアキュビュー アキュビューオアシス アキュビュー コンタクトレンズ コンタクト ワンデーコンタクト ジョンソン ワンデーオアシス 近視 遠視",
-      "itemPrice": "14780",
-      "reviewAverage": "4.68",
-      "reviewCount": 1438,
-      "itemUrl": "https://item.rakuten.co.jp/earth-contact/1doa90-02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 11,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "book:21983962",
-      "rank": 14,
-      "itemName": "【特典】ACE COMBAT 8: WINGS OF THEVE(【早期購入封入特典】DLC)",
-      "itemPrice": "8321",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/book/18663067/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "lifedrinkcompany:10000022",
+      "itemCode": "irisplaza-r:10170526",
       "rank": 15,
-      "itemName": "300円OFFクーポンあり★食いしんぼう祭 炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
-      "itemPrice": "2550",
-      "reviewAverage": "4.67",
-      "reviewCount": 17810,
-      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemName": "【令和7年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3袋) 密封新鮮パック 脱酸素剤入り 米 お米 国産 10キロ 15キロ 低温製法米 送料無料 アイリスオーヤマ",
+      "itemPrice": "3980",
+      "reviewAverage": "4.7",
+      "reviewCount": 8401,
+      "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": -2,
+      "change4h": 4,
+      "change24h": 4,
       "observations24h": 7,
       "labels": [
         "PROVEN"
@@ -266,22 +220,6 @@
       "itemUrl": "https://item.rakuten.co.jp/book/18822007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
       "change4h": 0,
-      "change24h": 14,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "candymagic:10000575",
-      "rank": 17,
-      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
-      "itemPrice": "3432",
-      "reviewAverage": "4.72",
-      "reviewCount": 30284,
-      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
       "change24h": 0,
       "observations24h": 7,
       "labels": [
@@ -289,95 +227,15 @@
       ]
     },
     {
-      "itemCode": "book:21996366",
+      "itemCode": "book:21983962",
       "rank": 18,
-      "itemName": "【楽天ブックス限定先着特典】POPS (通常盤)(マルチクリアポーチ) [ Mrs.GREEN APPLE ]",
-      "itemPrice": "3300",
-      "reviewAverage": "4.5",
-      "reviewCount": 2,
-      "itemUrl": "https://item.rakuten.co.jp/book/18675238/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "irisplaza-r:10170526",
-      "rank": 19,
-      "itemName": "【令和7年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3袋) 密封新鮮パック 脱酸素剤入り 米 お米 国産 10キロ 15キロ 低温製法米 送料無料 アイリスオーヤマ",
-      "itemPrice": "3980",
-      "reviewAverage": "4.7",
-      "reviewCount": 8339,
-      "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 2,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "mochikichi:10001625",
-      "rank": 20,
-      "itemName": "【予約商品】福岡くん。×YOASOBIコラボ缶セット【国産米100％ 6種28袋 缶】",
-      "itemPrice": "8640",
+      "itemName": "【特典】ACE COMBAT 8: WINGS OF THEVE(【早期購入封入特典】DLC)",
+      "itemPrice": "8321",
       "reviewAverage": "0.0",
       "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/mochikichi/73036/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemUrl": "https://item.rakuten.co.jp/book/18663067/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": -15,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "kurashikenkou:10225574",
-      "rank": 21,
-      "itemName": "＼緑茶ラベルレスとフレーバー24本が激アツ価格！／お茶 緑茶 ほうじ茶 ペットボトル 500ml 24本 48本 選べる ラベルレス 密閉抽出 香り高い 旨みすっきり 飲みやすい 食事 朝に合う まとめ買い 箱買い ケース アイリスのお茶 緑 焙じ茶 アイリスオーヤマ アイリスフーズ *",
-      "itemPrice": "1180",
-      "reviewAverage": "4.75",
-      "reviewCount": 6851,
-      "itemUrl": "https://item.rakuten.co.jp/kurashikenkou/312068/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": -3,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "book:22115798",
-      "rank": 22,
-      "itemName": "【楽天ブックス限定配送BOX】【先着特典】映画「おそ松さん 人類クズ化計画!!!!!?」 超豪華コンプリートBOX(ヘソクリミニ封筒入りスマホサイズステッカーセット) [ Aぇ! group ]",
-      "itemPrice": "10450",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/book/18821978/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": -19,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "wwpc:10064892",
-      "rank": 23,
-      "itemName": "ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト(4kg)【ロイヤルカナン療法食】",
-      "itemPrice": "9198",
-      "reviewAverage": "4.66",
-      "reviewCount": 2821,
-      "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": -4,
       "change24h": -4,
       "observations24h": 7,
       "labels": [
@@ -385,15 +243,63 @@
       ]
     },
     {
-      "itemCode": "kouragumi:10001520",
-      "rank": 24,
-      "itemName": "お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】【国産無塩小中型のみ入荷次第発送】",
-      "itemPrice": "2490",
-      "reviewAverage": "4.51",
-      "reviewCount": 19608,
-      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "itemCode": "candymagic:10000575",
+      "rank": 21,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30295,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": -4,
+      "change24h": -4,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "brighte-onlineshop:10000000",
+      "rank": 24,
+      "itemName": "＜今なら19,800円相当！＞【イベント開催中】 ELEKI LIFT 【公式】美顔器 リフトアップ ブライト エレキリフト / Brighte 美顔器 | ems 美容 美容家電 角質汚れ フェイスライン エイジングケア クーポン適応条件あり",
+      "itemPrice": "58000",
+      "reviewAverage": "4.16",
+      "reviewCount": 730,
+      "itemUrl": "https://item.rakuten.co.jp/brighte-onlineshop/brt-fl170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 4,
+      "change24h": 4,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "earth-contact:10000641",
+      "rank": 26,
+      "itemName": "ワンデーアキュビューオアシス 90枚パック 2~8箱セット ( 1日使い捨て ワンデー 1day ) コンタクトレンズ ワンデー ワンデーアキュビュー アキュビューオアシス アキュビュー コンタクトレンズ コンタクト ワンデーコンタクト ジョンソン ワンデーオアシス 近視 遠視",
+      "itemPrice": "14990",
+      "reviewAverage": "4.68",
+      "reviewCount": 1438,
+      "itemUrl": "https://item.rakuten.co.jp/earth-contact/1doa90-02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": -13,
+      "change24h": -13,
+      "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "wwpc:10064892",
+      "rank": 27,
+      "itemName": "ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト(4kg)【ロイヤルカナン療法食】",
+      "itemPrice": "9198",
+      "reviewAverage": "4.66",
+      "reviewCount": 2823,
+      "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": -4,
       "change24h": -4,
       "observations24h": 7,
       "labels": [
@@ -402,96 +308,16 @@
     },
     {
       "itemCode": "lensfree:10000056",
-      "rank": 25,
+      "rank": 28,
       "itemName": "メダリストワンデープラス 90枚パック ×2箱セット ボシュロム コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て",
       "itemPrice": "5705",
       "reviewAverage": "4.78",
-      "reviewCount": 1942,
+      "reviewCount": 1943,
       "itemUrl": "https://item.rakuten.co.jp/lensfree/bl1dmp90-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": 2,
+      "change4h": -3,
+      "change24h": -3,
       "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "neomamaism:10000004",
-      "rank": 26,
-      "itemName": "キッズデザイン賞！ ネオママイズム 新生児 折りたたみ ベッドインベッド 使用月齢：新生児〜18ヶ月 送料無料 ベビーベッド 洗濯機丸洗いOK 軽量 携帯用バッグ付き ギフト 出産祝い クーファン ベビー布団 ベットインベット neomamaism",
-      "itemPrice": "15750",
-      "reviewAverage": "4.52",
-      "reviewCount": 1620,
-      "itemUrl": "https://item.rakuten.co.jp/neomamaism/nb21bbdg/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "i-need-more-shoes:10000553",
-      "rank": 27,
-      "itemName": "【yuki (ドキ子)さん ROOMコラボ】サボ ミュール レディース オブリークトゥ チャンキーヒール サボサンダル ミュールサンダル 4cmヒール 太ヒール スクエアトゥ ブラック ブラウン yuki ドキ子 レディース 送料無料 アイニード ineedmores hoes [yk-2560]",
-      "itemPrice": "6330",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/i-need-more-shoes/20000024/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "brighte-onlineshop:10000000",
-      "rank": 28,
-      "itemName": "＜今なら19,800円相当！＞【イベント開催中】 ELEKI LIFT 【公式】美顔器 リフトアップ ブライト エレキリフト / Brighte 美顔器 | ems 美容 美容家電 角質汚れ フェイスライン エイジングケア クーポン適応条件あり",
-      "itemPrice": "58000",
-      "reviewAverage": "4.16",
-      "reviewCount": 728,
-      "itemUrl": "https://item.rakuten.co.jp/brighte-onlineshop/brt-fl170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "queeneyes:10000234",
-      "rank": 29,
-      "itemName": "【限定カラー】【クーポン利用で20%OFF】 エバーカラー ワンデー ナチュラル (1箱20枚入り)( 送料無料 カラコン カラーコンタクト 度あり 度入り 度なし ワンデー 1day コンタクト エバーカラー エバーカラーワンデー エバカラ パールベージュ など )【新木優子】",
-      "itemPrice": "2598",
-      "reviewAverage": "4.37",
-      "reviewCount": 40181,
-      "itemUrl": "https://item.rakuten.co.jp/queeneyes/evercolor_natural/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": -4,
-      "observations24h": 7,
-      "labels": [
-        "PROVEN"
-      ]
-    },
-    {
-      "itemCode": "book:22070141",
-      "rank": 30,
-      "itemName": "【楽天ブックス限定先着特典】きっと！ (初回生産限定盤 2CD＋Blu-ray)(オリジナルアクリルキーホルダー) [ 小田和正 ]",
-      "itemPrice": "7700",
-      "reviewAverage": "5.0",
-      "reviewCount": 2,
-      "itemUrl": "https://item.rakuten.co.jp/book/18771171/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": "",
-      "change4h": 0,
-      "change24h": null,
-      "observations24h": 6,
       "labels": [
         "PROVEN"
       ]
