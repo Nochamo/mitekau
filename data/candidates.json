@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T20:21:42.049493+00:00",
+  "generatedAt": "2026-10-02T00:29:04.154798+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-10-01T16:21:49.331812+00:00"
+      "snapshotAt": "2026-10-01T20:21:42.049493+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-09-30T20:21:20.322580+00:00"
+      "snapshotAt": "2026-10-01T00:30:07.887195+00:00"
     }
   },
   "rules": {
@@ -44,6 +44,38 @@
       "change4h": 0,
       "change24h": 5,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "kouragumi:10001635",
+      "rank": 3,
+      "itemName": "48時間限定★60％OFFクーポンで24,980円⇒送料無料9,992円！ギフト 希少な 国産 うなぎ 蒲焼き 超特大サイズ 220g前後×5尾 ウナギ 鰻 【P半】",
+      "itemPrice": "24980",
+      "reviewAverage": "4.56",
+      "reviewCount": 1863,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/202114/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "sfd-ymt:10000345",
+      "rank": 4,
+      "itemName": "＼10/4AM9:59まで超早割／【楽天総合1位】特大タラバ蟹1kg 2kg 3kg 5kg 独自のワンフローズン カニ タラバガニ たらば かに たらば蟹 たらばかに 贈答 ギフト 母の日 父の日 お中元 敬老の日 お歳暮 年末年始 お年賀 新年 祝い 誕生日",
+      "itemPrice": "9999",
+      "reviewAverage": "4.24",
+      "reviewCount": 24415,
+      "itemUrl": "https://item.rakuten.co.jp/sfd-ymt/869808/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -145,6 +177,22 @@
       ]
     },
     {
+      "itemCode": "netbaby:10028506",
+      "rank": 11,
+      "itemName": "【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】",
+      "itemPrice": "5721",
+      "reviewAverage": "4.79",
+      "reviewCount": 8757,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "kurashikenkou:10225574",
       "rank": 12,
       "itemName": "＼緑茶ラベルレスとフレーバー24本が激アツ価格！／お茶 緑茶 ほうじ茶 ペットボトル 500ml 24本 48本 選べる ラベルレス 密閉抽出 香り高い 旨みすっきり 飲みやすい 食事 朝に合う まとめ買い 箱買い ケース アイリスのお茶 緑 焙じ茶 アイリスオーヤマ アイリスフーズ *",
@@ -225,6 +273,22 @@
       ]
     },
     {
+      "itemCode": "outletshoes:10017017",
+      "rank": 17,
+      "itemName": "【9/30 20時再販】 【新色発売】 送料無料 【はあちゅう×welleg】 スニーカー ROOMコラボ スリッポン レディース ハンズフリー 手を使わずに履ける 立ったまま履ける 痛くない 反射材 ウォーキングシューズ ママ メンズ 旅行 レジャー おでかけ 8営業日以内に発送",
+      "itemPrice": "5999",
+      "reviewAverage": "4.53",
+      "reviewCount": 1524,
+      "itemUrl": "https://item.rakuten.co.jp/outletshoes/65015/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "book:21983962",
       "rank": 18,
       "itemName": "【特典】ACE COMBAT 8: WINGS OF THEVE(【早期購入封入特典】DLC)",
@@ -236,6 +300,38 @@
       "change4h": 0,
       "change24h": -4,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "soukaidrink:10005897",
+      "rank": 19,
+      "itemName": "キリン 淡麗グリーンラベル(350ml*48本セット)【kb8】【kb4】【kh0】【淡麗グリーンラベル】[発泡酒 糖質オフ]",
+      "itemPrice": "7477",
+      "reviewAverage": "4.71",
+      "reviewCount": 793,
+      "itemUrl": "https://item.rakuten.co.jp/soukaidrink/62522/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "brita:10000161",
+      "rank": 20,
+      "itemName": "【公式・正規品】 ポット型浄水器用カートリッジ マクストラプロ ピュアパフォーマンス 8個セット | 日本仕様 浄水カートリッジ 浄水ポット マ 日本仕様 ブリタカートリッジ brita maxtra アウトレット PFAS (PFOS/PFOA) 除去",
+      "itemPrice": "7990",
+      "reviewAverage": "4.78",
+      "reviewCount": 26460,
+      "itemUrl": "https://item.rakuten.co.jp/brita/maxtraplus-8/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -257,6 +353,38 @@
       ]
     },
     {
+      "itemCode": "book:22103916",
+      "rank": 22,
+      "itemName": "MILESixTONES(初回盤＋通常盤 Blu-rayセット)【Blu-ray】 [ SixTONES ]",
+      "itemPrice": "13649",
+      "reviewAverage": "5.0",
+      "reviewCount": 1,
+      "itemUrl": "https://item.rakuten.co.jp/book/18814391/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "date-hyakumangoku:10000043",
+      "rank": 23,
+      "itemName": "クーポンで10,500円～！ おせち 福袋 2027 選べる3コース おせち料理 お節 お節福袋 福袋おせち 福おせち 予約 冷凍おせち 冷凍 和風 和洋 和洋中 洋風 oseti 2人前 3人前 4人前 5人前 海鮮 豪華 人気 ふくぶくろ ガチャ 正月 お正月 ギフト 贈り物 お年玉 お歳暮 蔵王福膳",
+      "itemPrice": "12500",
+      "reviewAverage": "4.22",
+      "reviewCount": 2547,
+      "itemUrl": "https://item.rakuten.co.jp/date-hyakumangoku/monitor-osechi/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
       "itemCode": "brighte-onlineshop:10000000",
       "rank": 24,
       "itemName": "＜今なら19,800円相当！＞【イベント開催中】 ELEKI LIFT 【公式】美顔器 リフトアップ ブライト エレキリフト / Brighte 美顔器 | ems 美容 美容家電 角質汚れ フェイスライン エイジングケア クーポン適応条件あり",
@@ -268,6 +396,22 @@
       "change4h": 0,
       "change24h": 4,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "lens-1:10002142",
+      "rank": 25,
+      "itemName": "シード ワンデーピュア うるおいプラス 96枚入×2箱 ( コンタクト 1日使い捨て ワンデー 1day シード seed ピュア Pure うるおいプラス ワンデーピュアうるおいプラス 96枚入り 2箱セット )",
+      "itemPrice": "8970",
+      "reviewAverage": "4.78",
+      "reviewCount": 6733,
+      "itemUrl": "https://item.rakuten.co.jp/lens-1/1pureup96p_02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -316,6 +460,38 @@
       "change4h": 0,
       "change24h": -3,
       "observations24h": 7,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "shuuemura:10000018",
+      "rank": 29,
+      "itemName": "【ポイント10倍 9/24 10:00～10/1 9:59まで】アルティム8∞ ベストセラーキット / ブライト クレンジングオイル キット | シュウウエムラクレンジング クレンジング 楽天市場店限定 洗顔 メイク落とし 毛穴 洗顔料 スキンケア 美容 化粧落とし 送料無料 楽天ベストコスメ",
+      "itemPrice": "13200",
+      "reviewAverage": "4.84",
+      "reviewCount": 35302,
+      "itemUrl": "https://item.rakuten.co.jp/shuuemura/shu30001jp/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22063684",
+      "rank": 30,
+      "itemName": "【先着特典】AMENITY (初回盤A(DVD)＋初回盤B(DVD)＋通常盤セット)(オリジナルヘアコーム+オリジナルコルクコースター+オリジナル歯ブラシ(箱入り)) [ Snow Man ]",
+      "itemPrice": "11866",
+      "reviewAverage": "5.0",
+      "reviewCount": 3,
+      "itemUrl": "https://item.rakuten.co.jp/book/18763171/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
