@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T08:23:41.899582+00:00",
+  "generatedAt": "2026-10-02T12:26:31.831611+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-10-02T04:21:46.245172+00:00"
+      "snapshotAt": "2026-10-02T08:23:41.899582+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-01T08:24:37.747023+00:00"
+      "snapshotAt": "2026-10-01T12:28:21.311559+00:00"
     }
   },
   "rules": {
@@ -25,11 +25,10 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18822007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 14,
+      "change4h": 0,
       "change24h": 14,
       "observations24h": 7,
       "labels": [
-        "RISING",
         "PROVEN"
       ]
     },
@@ -42,11 +41,10 @@
       "reviewCount": 8448,
       "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 12,
+      "change4h": 0,
       "change24h": 12,
       "observations24h": 7,
       "labels": [
-        "RISING",
         "PROVEN"
       ]
     },
@@ -59,7 +57,7 @@
       "reviewCount": 813,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -3,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 7,
       "labels": [
@@ -75,7 +73,7 @@
       "reviewCount": 15002,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 3,
+      "change4h": 0,
       "change24h": 3,
       "observations24h": 7,
       "labels": [
@@ -91,7 +89,7 @@
       "reviewCount": 6372,
       "itemUrl": "https://item.rakuten.co.jp/yama-oatmeal-institute/kiwamiseimai10/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 7,
+      "change4h": 0,
       "change24h": 7,
       "observations24h": 7,
       "labels": [
@@ -107,7 +105,7 @@
       "reviewCount": 17836,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -1,
+      "change4h": 0,
       "change24h": -1,
       "observations24h": 7,
       "labels": [
@@ -123,7 +121,7 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -3,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 7,
       "labels": [
@@ -139,7 +137,7 @@
       "reviewCount": 8766,
       "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 1,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 7,
       "labels": [
@@ -155,7 +153,7 @@
       "reviewCount": 4,
       "itemUrl": "https://item.rakuten.co.jp/book/18805294/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -3,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 7,
       "labels": [
@@ -171,7 +169,7 @@
       "reviewCount": 1,
       "itemUrl": "https://item.rakuten.co.jp/book/18814391/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 8,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 7,
       "labels": [
@@ -187,7 +185,7 @@
       "reviewCount": 30313,
       "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 6,
+      "change4h": 0,
       "change24h": 6,
       "observations24h": 7,
       "labels": [
@@ -203,7 +201,7 @@
       "reviewCount": 19647,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -9,
+      "change4h": 0,
       "change24h": -9,
       "observations24h": 7,
       "labels": [
@@ -219,7 +217,7 @@
       "reviewCount": 8152,
       "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -5,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 7,
       "labels": [
@@ -235,7 +233,7 @@
       "reviewCount": 6735,
       "itemUrl": "https://item.rakuten.co.jp/lens-1/1pureup96p_02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 1,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 7,
       "labels": [
@@ -251,7 +249,7 @@
       "reviewCount": 24415,
       "itemUrl": "https://item.rakuten.co.jp/sfd-ymt/869808/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -21,
+      "change4h": 0,
       "change24h": -21,
       "observations24h": 7,
       "labels": [
@@ -267,7 +265,7 @@
       "reviewCount": 2823,
       "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 1,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 7,
       "labels": [
@@ -283,7 +281,7 @@
       "reviewCount": 1867,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/202114/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": -25,
+      "change4h": 0,
       "change24h": -25,
       "observations24h": 7,
       "labels": [
@@ -299,7 +297,7 @@
       "reviewCount": 3,
       "itemUrl": "https://item.rakuten.co.jp/book/18763171/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 1,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 7,
       "labels": [
