@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T23:42:52.226875+00:00",
+  "generatedAt": "2026-10-03T05:07:57.784555+00:00",
   "comparison": {
     "4h": {
-      "status": "INSUFFICIENT_HISTORY",
-      "snapshotAt": null
+      "status": "OK",
+      "snapshotAt": "2026-10-02T23:42:52.226875+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-02T00:29:04.154798+00:00"
+      "snapshotAt": "2026-10-02T04:21:46.245172+00:00"
     }
   },
   "rules": {
@@ -16,6 +16,22 @@
     "PROVEN": "rank<=50 and >=4 prior observations in ~24h and rank stayed<=100"
   },
   "candidates": [
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 1,
+      "itemName": "【毎年総合ランキング1位獲得★】福袋おせち◆高級おせちを含む56種のおせちのいずれかをお届け【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51290,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
     {
       "itemCode": "book:22110960",
       "rank": 2,
@@ -25,7 +41,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18822007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 14,
       "observations24h": 6,
       "labels": [
@@ -41,7 +57,7 @@
       "reviewCount": 8448,
       "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 12,
       "observations24h": 6,
       "labels": [
@@ -57,7 +73,7 @@
       "reviewCount": 813,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 6,
       "labels": [
@@ -73,7 +89,7 @@
       "reviewCount": 15002,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 3,
       "observations24h": 6,
       "labels": [
@@ -89,7 +105,7 @@
       "reviewCount": 6372,
       "itemUrl": "https://item.rakuten.co.jp/yama-oatmeal-institute/kiwamiseimai10/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 7,
       "observations24h": 6,
       "labels": [
@@ -105,7 +121,7 @@
       "reviewCount": 17836,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -1,
       "observations24h": 6,
       "labels": [
@@ -121,9 +137,25 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22118196",
+      "rank": 9,
+      "itemName": "遊☆戯☆王ジャンプ （集英社ムック） [ 高橋 和希 ]",
+      "itemPrice": "990",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18827118/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -137,9 +169,25 @@
       "reviewCount": 8766,
       "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "book:22089904",
+      "rank": 11,
+      "itemName": "ちいかわ　なんか小さくてかわいいやつ（9）　なんか書けて飾れるポストカードブック付き特装版 （講談社キャラクターズA） [ ナガノ ]",
+      "itemPrice": "3410",
+      "reviewAverage": "5.0",
+      "reviewCount": 1,
+      "itemUrl": "https://item.rakuten.co.jp/book/18798063/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -153,9 +201,25 @@
       "reviewCount": 4,
       "itemUrl": "https://item.rakuten.co.jp/book/18805294/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "bunbougu-shibuya:10159919",
+      "rank": 13,
+      "itemName": "ディズニー　ボンボンドロップシール　churukira　[M便 1/6]［予約販売10月末頃発送予定］　[disneyzone]",
+      "itemPrice": "880",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/bunbougu-shibuya/bdckdn/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -169,7 +233,7 @@
       "reviewCount": 1,
       "itemUrl": "https://item.rakuten.co.jp/book/18814391/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 6,
       "labels": [
@@ -185,7 +249,7 @@
       "reviewCount": 30313,
       "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 6,
       "observations24h": 6,
       "labels": [
@@ -201,9 +265,41 @@
       "reviewCount": 19647,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -9,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "netbaby:10028658",
+      "rank": 17,
+      "itemName": "【1種類を選べる】パンパース オムツ さらさらケア パンツ(1セット)【パンパース】[さらさらケア]",
+      "itemPrice": "4950",
+      "reviewAverage": "4.82",
+      "reviewCount": 9014,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404313/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "shimin2:10000782",
+      "rank": 18,
+      "itemName": "［先着順 最大1000円OFFクーポン配布中］エクエル パウチ 120粒 × 3袋【正規品】送料無料 大塚製薬 エクエル パウチ 120粒 3個セット 90日分 大塚製薬 エクオール配合 サプリ 4粒でS-エクオール10mg 大豆イソフラボン サプリ EQUELLE エクエル 正規品［日本郵便］",
+      "itemPrice": "11129",
+      "reviewAverage": "4.69",
+      "reviewCount": 6740,
+      "itemUrl": "https://item.rakuten.co.jp/shimin2/4987035545613-3a-m/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -217,9 +313,73 @@
       "reviewCount": 8152,
       "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "netbaby:10018748",
+      "rank": 20,
+      "itemName": "【1種類を選べる】パンパース オムツ はじめての肌へのいちばん テープ(3個)【パンパース 肌へのいちばん】[肌へのいちばん]",
+      "itemPrice": "6890",
+      "reviewAverage": "4.8",
+      "reviewCount": 6896,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/a62067xxx/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000004",
+      "rank": 21,
+      "itemName": "【食フェスクーポンあり♪10/3まで】炭酸水 500ml 24本 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム ラベルレス 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK　ZAO SODA",
+      "itemPrice": "1429",
+      "reviewAverage": "4.68",
+      "reviewCount": 52665,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "netbaby:10035957",
+      "rank": 22,
+      "itemName": "【1種類を選べる】メリーズ エアスルー パンツ 梱販販売用(3袋入×1箱)【メリーズ】[おむつ オムツ 紙おむつ 紙オムツ さらさらエアスルー]",
+      "itemPrice": "6985",
+      "reviewAverage": "4.82",
+      "reviewCount": 4065,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404758/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "jcrops:10008581",
+      "rank": 23,
+      "itemName": "クーポンで500円OFF 先着5000枚限定 8年産米70%以上ブレンド きらっとごはん 白米 脱酸素剤入り白米 無洗米 玄米 送料無料 5kg 10kg 15kg 20kg 30kg 60kg 120kg 米 お米 白米 無洗米 玄米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg 白米 60kg 白米 120kg",
+      "itemPrice": "2599",
+      "reviewAverage": "4.79",
+      "reviewCount": 8375,
+      "itemUrl": "https://item.rakuten.co.jp/jcrops/4562129938344-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -233,7 +393,7 @@
       "reviewCount": 6735,
       "itemUrl": "https://item.rakuten.co.jp/lens-1/1pureup96p_02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 6,
       "labels": [
@@ -249,7 +409,7 @@
       "reviewCount": 24415,
       "itemUrl": "https://item.rakuten.co.jp/sfd-ymt/869808/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -21,
       "observations24h": 6,
       "labels": [
@@ -265,9 +425,25 @@
       "reviewCount": 2823,
       "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "sawaicoffee-tea:10005763",
+      "rank": 27,
+      "itemName": "＼10/1限定 クーポンで2026円OFF／ 送料無料 ドリップバッグ コーヒー 珈琲 \"星降る夜をイメージした、3種のドリップパック飲み比べ\" 澤井珈琲 ドリップコーヒー カシオペア/サザンクロス/星ロマン 60袋 自分用 贈り物 鳥取県 【RD】 【TS】",
+      "itemPrice": "4928",
+      "reviewAverage": "4.5",
+      "reviewCount": 8,
+      "itemUrl": "https://item.rakuten.co.jp/sawaicoffee-tea/dp-seizablend3s60/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
@@ -281,7 +457,7 @@
       "reviewCount": 1867,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/202114/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -25,
       "observations24h": 6,
       "labels": [
@@ -297,9 +473,25 @@
       "reviewCount": 3,
       "itemUrl": "https://item.rakuten.co.jp/book/18763171/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 6,
+      "labels": [
+        "PROVEN"
+      ]
+    },
+    {
+      "itemCode": "earth-contact:10000694",
+      "rank": 30,
+      "itemName": "アキュビューオアシス 2~8箱セット ( コンタクトレンズ 2week コンタクト 2週間使い捨て 2ウィーク ジョンソン アキュビュー acuvue UVカット メール便 ジョンソン・エンド・ジョンソン 2箱 4箱 6箱 8箱 コンタクト洗浄液 ) 近視 遠視 アキュビューオアシス2week",
+      "itemPrice": "4980",
+      "reviewAverage": "4.66",
+      "reviewCount": 401,
+      "itemUrl": "https://item.rakuten.co.jp/earth-contact/aoas-02/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": "",
+      "change4h": 0,
+      "change24h": null,
+      "observations24h": 5,
       "labels": [
         "PROVEN"
       ]
