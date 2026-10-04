@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T13:53:33.460088+00:00",
+  "generatedAt": "2026-10-04T19:32:02.093581+00:00",
   "comparison": {
     "4h": {
-      "status": "INSUFFICIENT_HISTORY",
-      "snapshotAt": null
+      "status": "OK",
+      "snapshotAt": "2026-10-04T13:53:33.460088+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-03T13:17:38.025468+00:00"
+      "snapshotAt": "2026-10-03T19:10:15.368487+00:00"
     }
   },
   "rules": {
@@ -25,7 +25,7 @@
       "reviewCount": 51324,
       "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 2,
       "observations24h": 5,
       "labels": [
@@ -41,7 +41,7 @@
       "reviewCount": 432,
       "itemUrl": "https://item.rakuten.co.jp/masam1963/pd-302/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 0,
       "observations24h": 5,
       "labels": [
@@ -57,7 +57,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18842830/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -3,
       "observations24h": 5,
       "labels": [
@@ -73,7 +73,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18835273/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 3,
       "observations24h": 5,
       "labels": [
@@ -89,7 +89,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/tis3580/hon-003/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 22,
       "observations24h": 5,
       "labels": [
@@ -105,7 +105,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18835278/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -2,
       "observations24h": 5,
       "labels": [
@@ -121,7 +121,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18835275/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 5,
       "labels": [
@@ -137,7 +137,7 @@
       "reviewCount": 15012,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 5,
       "labels": [
@@ -153,7 +153,7 @@
       "reviewCount": 817,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 5,
       "labels": [
@@ -169,7 +169,7 @@
       "reviewCount": 17861,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -8,
       "observations24h": 5,
       "labels": [
@@ -185,7 +185,7 @@
       "reviewCount": 4,
       "itemUrl": "https://item.rakuten.co.jp/book/18805294/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 0,
       "observations24h": 5,
       "labels": [
@@ -201,7 +201,7 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18763170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -8,
       "observations24h": 5,
       "labels": [
@@ -217,7 +217,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18842831/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -22,
       "observations24h": 5,
       "labels": [
@@ -233,7 +233,7 @@
       "reviewCount": 8520,
       "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -8,
       "observations24h": 5,
       "labels": [
@@ -249,7 +249,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18842826/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -23,
       "observations24h": 5,
       "labels": [
@@ -265,7 +265,7 @@
       "reviewCount": 30332,
       "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -14,
       "observations24h": 5,
       "labels": [
