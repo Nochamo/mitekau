@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T23:44:52.891573+00:00",
+  "generatedAt": "2026-10-07T05:44:50.809398+00:00",
   "comparison": {
     "4h": {
       "status": "OK",
-      "snapshotAt": "2026-10-06T18:17:11.956009+00:00"
+      "snapshotAt": "2026-10-06T23:44:52.891573+00:00"
     },
     "24h": {
-      "status": "OK",
-      "snapshotAt": "2026-10-06T01:16:16.376880+00:00"
+      "status": "INSUFFICIENT_HISTORY",
+      "snapshotAt": null
     }
   },
   "rules": {
