@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T13:36:45.608240+00:00",
+  "generatedAt": "2026-10-14T20:09:21.428484+00:00",
   "comparison": {
     "4h": {
       "status": "INSUFFICIENT_HISTORY",
@@ -8,7 +8,7 @@
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-13T11:40:15.240066+00:00"
+      "snapshotAt": "2026-10-13T19:12:08.719783+00:00"
     }
   },
   "rules": {

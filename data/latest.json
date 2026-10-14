@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
-  "fetchedAt": "2026-10-14T13:36:45.608240+00:00",
+  "fetchedAt": "2026-10-14T20:09:21.428484+00:00",
   "lastBuildDate": "Wed, 14 Oct 2026 00:00:00 +0900",
   "count": 29,
   "items": [
@@ -286,13 +286,13 @@
       "affiliateUrl": ""
     },
     {
-      "itemCode": "meta:10000005",
-      "rank": 1,
-      "itemName": "【Meta公式ストア】 Meta Quest 3S 128GB",
+      "itemCode": "ec-current:12818825",
+      "rank": 2,
+      "itemName": "Meta メタ MetaQuest 3S 128GB オールインワンVRヘッドセット メタクエスト SK-1000204-01 SK100020401",
       "itemPrice": "50490",
-      "reviewAverage": "4.17",
-      "reviewCount": 47,
-      "itemUrl": "https://item.rakuten.co.jp/meta/9089224081656/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "reviewAverage": "4.41",
+      "reviewCount": 68,
+      "itemUrl": "https://item.rakuten.co.jp/ec-current/0815820025238/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": ""
     }
   ]
