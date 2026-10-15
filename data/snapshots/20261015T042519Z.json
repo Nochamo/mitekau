@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
+  "fetchedAt": "2026-10-15T04:25:19.651202+00:00",
+  "lastBuildDate": "Wed, 14 Oct 2026 00:00:00 +0900",
+  "count": 29,
+  "items": [
+    {
+      "itemCode": "lensfree:10000056",
+      "rank": 30,
+      "itemName": "メダリストワンデープラス 90枚パック ×2箱セット ボシュロム コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て",
+      "itemPrice": "5705",
+      "reviewAverage": "4.78",
+      "reviewCount": 1973,
+      "itemUrl": "https://item.rakuten.co.jp/lensfree/bl1dmp90-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 29,
+      "itemName": "【炭酸水の最安値に挑戦中！】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2550",
+      "reviewAverage": "4.66",
+      "reviewCount": 18023,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22098904",
+      "rank": 28,
+      "itemName": "Nintendo Switch 2 （日本語・国内専用） ゼルダの伝説 40周年 アニバーサリーエディション",
+      "itemPrice": "62979",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805200/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yakyu-kasukawa:10450501",
+      "rank": 27,
+      "itemName": "ポイント10倍 アディダス ジュニア用レスリングシューズ HVC K ブラック AQ3327",
+      "itemPrice": "4620",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/yakyu-kasukawa/aq3327/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "auc-assy-underwear:10004394",
+      "rank": 26,
+      "itemName": "【4188】REBOOT NX PRIDE super low-rise bikini",
+      "itemPrice": "3080",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/auc-assy-underwear/10004188/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "bunbougu-shibuya:10160053",
+      "rank": 25,
+      "itemName": "ボンボンドロップシール　こびとづかん　[M便 1/6]［予約販売10月下旬頃発送予定］",
+      "itemPrice": "880",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/bunbougu-shibuya/s8820kbt/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10001520",
+      "rank": 24,
+      "itemName": "お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】【国産無塩小中型のみ入荷次第発送】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 19860,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "candymagic:10000575",
+      "rank": 23,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30485,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "rakkenshop:10000002",
+      "rank": 22,
+      "itemName": "【楽券_eギフト】サーティワン 500円",
+      "itemPrice": "500",
+      "reviewAverage": "4.63",
+      "reviewCount": 3119,
+      "itemUrl": "https://item.rakuten.co.jp/rakkenshop/rakken_107-137/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22131230",
+      "rank": 21,
+      "itemName": "【楽天ブックス限定抽選特典】【クレジットカード決済限定】WILD BLUE 1st写真集(オンラインラッキードロー抽選権) [ WILD BLUE ]",
+      "itemPrice": "3960",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18845135/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "alldocube:10000116",
+      "rank": 20,
+      "itemName": "【クーポンで20,999円&レビュー特典】ALLDOCUBE iPlay 80E Android 17 タブレット 11インチ 2.5K 90Hz SIMフリー 8コア 4G LTE GPS 2560×1600解像度 8800mAh 18W急速充電 4スピーカー Widevine L1 8GB+128GB 1TB拡張 タブレット 電子コンパス 顔認証 自動輝度 18ヶ月保証",
+      "itemPrice": "28999",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/alldocube/iplay80e/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yakyu-kasukawa:10454424",
+      "rank": 19,
+      "itemName": "アディダス ボクシングシューズ BOX HOG4 IF0477 IH2730 JP9846 JP9847",
+      "itemPrice": "13200",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/yakyu-kasukawa/if0477ih2730jp9846jp9847/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22131651",
+      "rank": 18,
+      "itemName": "【先着特典】UNISON SQUARE GARDEN LIVE 2026 「Sentimental Period」 at Makuhari Messe International Exhibition Hall 2026.07.15 (完全生産限定盤)【Blu-ray】(メタルカラビナ) [ UNISON SQUARE GARDEN ]",
+      "itemPrice": "19250",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18851651/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "forc-wear:10001216",
+      "rank": 17,
+      "itemName": "[forc p.m]リバー オープン ダブルテーラー ミドルコート リバーコート 軽量 軽い ミドル丈 ウール コクーンシルエット 立体感 一枚仕立て エコ リサイクルポリエステル 26AW 秋 冬 フリーサイズ for/c フォーシー",
+      "itemPrice": "24200",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/forc-wear/904109/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yakyu-kasukawa:10453511",
+      "rank": 16,
+      "itemName": "アディダス メンズ ランニングシューズ ギャラクシーステップ スニーカー 通勤 通学 部活 JQ7499 JP6189",
+      "itemPrice": "4380",
+      "reviewAverage": "4.64",
+      "reviewCount": 14,
+      "itemUrl": "https://item.rakuten.co.jp/yakyu-kasukawa/galaxystep/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22095438",
+      "rank": 15,
+      "itemName": "ゼルダの伝説 時のオカリナ",
+      "itemPrice": "7768",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 14,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14790",
+      "reviewAverage": "4.76",
+      "reviewCount": 833,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 13,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 15058,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "suzukachan:10000207",
+      "rank": 12,
+      "itemName": "【10/14　12時発売】（ヤケーヌ公式） ぽかぽかフリースヤケーヌ フェイスカバー 耳カバー スナップ式 洗える UVカットマスク 息苦しくない ネックウォーマー 紫外線対策 フェイスウォーマー 日焼け防止 冬用 ランニング スキー スノボ 雪山 登山",
+      "itemPrice": "2970",
+      "reviewAverage": "4.34",
+      "reviewCount": 247,
+      "itemUrl": "https://item.rakuten.co.jp/suzukachan/947/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "e-kurashi:10048736",
+      "rank": 11,
+      "itemName": "コロ脚 中が透けない 壁付き チェスト スリム/ワイド 幅34/54 奥行41.5/41.7 高さ66.1/86.1/106.1cm 衣装ケース 収納ケース プラスチック 引き出し 洗面所 収納 子供部屋 クローゼット 隠す収納 ランドリーチェスト 壁付きチェスト 日本製 【送料無料】",
+      "itemPrice": "4999",
+      "reviewAverage": "4.42",
+      "reviewCount": 6719,
+      "itemUrl": "https://item.rakuten.co.jp/e-kurashi/s1u57/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 10,
+      "itemName": "【総合ランキング1位獲得★】福袋おせち◆高級おせちを含む56種のおせちのいずれかをお届け【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51480,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yakyu-kasukawa:10454073",
+      "rank": 9,
+      "itemName": "アディダス レスリングシューズ コンバットスピード4 IG2020 JQ4985 JQ4986",
+      "itemPrice": "8580",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/yakyu-kasukawa/ig2020jq4985jq4986/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22063673",
+      "rank": 8,
+      "itemName": "【楽天ブックス限定配送BOX】【楽天ブックス限定先着特典】JOY 2 (初回生産限定盤)(スマホショルダー) [ 山下達郎 ]",
+      "itemPrice": "6900",
+      "reviewAverage": "4.85",
+      "reviewCount": 13,
+      "itemUrl": "https://item.rakuten.co.jp/book/18761189/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "ajinomoto:10000623",
+      "rank": 7,
+      "itemName": "味の素「クノール 贅沢野菜」2026 今夏採れたてヌーヴォーコーン 北海道スイートコーン 15袋入｜ AJINOMOTO カップスープ コーンスープ 朝食 昼食 夜食 スープ ポタージュ 敬老の日 お歳暮",
+      "itemPrice": "4244",
+      "reviewAverage": "4.56",
+      "reviewCount": 310,
+      "itemUrl": "https://item.rakuten.co.jp/ajinomoto/nb98/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yakyu-kasukawa:10455038",
+      "rank": 6,
+      "itemName": "ミズノ mizuno ウエーブリボルト3 ランニングシューズ メンズ WAVE REVOLT 3 J1GC23146 J1GC23147 J1GC24816",
+      "itemPrice": "5940",
+      "reviewAverage": "4.88",
+      "reviewCount": 8,
+      "itemUrl": "https://item.rakuten.co.jp/yakyu-kasukawa/j1gc23146j1gc23147j1gc24816/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22123490",
+      "rank": 5,
+      "itemName": "【楽天ブックス限定先着特典+先着特典】【クレジットカード決済限定】【シリアル対象】MEGA GOLDEN (通常盤)初回プレス))(アクリルチャーム(ランダム1つ/全5種)+イベント応募用シリアルナンバー(2回目)) [ ONE N' ONLY ]",
+      "itemPrice": "3300",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18822012/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yakyu-kasukawa:10453292",
+      "rank": 4,
+      "itemName": "ニューバランス メンズ シューズ DynaSoft Flash v7 足幅:D ブルー MFLSHBL7D",
+      "itemPrice": "4980",
+      "reviewAverage": "4.67",
+      "reviewCount": 6,
+      "itemUrl": "https://item.rakuten.co.jp/yakyu-kasukawa/mflshbl7d/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "biccamera:14904848",
+      "rank": 3,
+      "itemName": "【10月下旬以降お届け】【入荷次第出荷】 Meta｜メタ Meta Quest 3S 128GB[VRヘッドセット /メモリが33％増加 /2倍のグラフィック処 理性能 /ワイヤレスのVR体験 /100種類以上のゲームにアクセスできるMeta Horizon+の3か月無料体験付き]【次回入荷分予約】",
+      "itemPrice": "50490",
+      "reviewAverage": "4.4",
+      "reviewCount": 20,
+      "itemUrl": "https://item.rakuten.co.jp/biccamera/0815820025238/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "ec-current:12818825",
+      "rank": 2,
+      "itemName": "Meta メタ MetaQuest 3S 128GB オールインワンVRヘッドセット メタクエスト SK-1000204-01 SK100020401",
+      "itemPrice": "50490",
+      "reviewAverage": "4.41",
+      "reviewCount": 68,
+      "itemUrl": "https://item.rakuten.co.jp/ec-current/0815820025238/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    }
+  ]
+}
