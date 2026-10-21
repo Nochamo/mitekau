@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T20:03:42.669128+00:00",
+  "generatedAt": "2026-10-21T23:13:23.240194+00:00",
   "comparison": {
     "4h": {
-      "status": "INSUFFICIENT_HISTORY",
-      "snapshotAt": null
+      "status": "OK",
+      "snapshotAt": "2026-10-21T20:03:42.669128+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-20T19:57:47.583579+00:00"
+      "snapshotAt": "2026-10-20T23:07:31.146416+00:00"
     }
   },
   "rules": {
@@ -25,7 +25,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/sk-ii/set-ftec-holiday2026/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 9,
       "observations24h": 5,
       "labels": [
@@ -41,7 +41,7 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -4,
       "observations24h": 5,
       "labels": [
@@ -57,7 +57,7 @@
       "reviewCount": 51576,
       "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 3,
       "observations24h": 5,
       "labels": [
@@ -73,7 +73,7 @@
       "reviewCount": 842,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -1,
       "observations24h": 5,
       "labels": [
@@ -89,7 +89,7 @@
       "reviewCount": 8857,
       "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 3,
       "observations24h": 5,
       "labels": [
@@ -105,7 +105,7 @@
       "reviewCount": 50,
       "itemUrl": "https://item.rakuten.co.jp/stylife/rv0706/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -9,
       "observations24h": 5,
       "labels": [
@@ -121,7 +121,7 @@
       "reviewCount": 9138,
       "itemUrl": "https://item.rakuten.co.jp/netbaby/404313/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 5,
       "labels": [
@@ -137,7 +137,7 @@
       "reviewCount": 6800,
       "itemUrl": "https://item.rakuten.co.jp/e-kurashi/s1u57/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -13,
       "observations24h": 5,
       "labels": [
@@ -153,7 +153,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18864059/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -12,
       "observations24h": 5,
       "labels": [
@@ -169,7 +169,7 @@
       "reviewCount": 15099,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -9,
       "observations24h": 5,
       "labels": [
@@ -185,7 +185,7 @@
       "reviewCount": 19982,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 5,
       "labels": [
@@ -201,7 +201,7 @@
       "reviewCount": 480,
       "itemUrl": "https://item.rakuten.co.jp/quads/qs549/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -16,
       "observations24h": 5,
       "labels": [
@@ -217,7 +217,7 @@
       "reviewCount": 18115,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -5,
       "observations24h": 5,
       "labels": [
@@ -233,7 +233,7 @@
       "reviewCount": 4098,
       "itemUrl": "https://item.rakuten.co.jp/netbaby/404758/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 0,
       "observations24h": 5,
       "labels": [
