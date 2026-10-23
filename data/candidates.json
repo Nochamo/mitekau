@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T19:55:24.252570+00:00",
+  "generatedAt": "2026-10-23T23:03:18.616496+00:00",
   "comparison": {
     "4h": {
-      "status": "INSUFFICIENT_HISTORY",
-      "snapshotAt": null
+      "status": "OK",
+      "snapshotAt": "2026-10-23T19:55:24.252570+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-22T19:58:25.066663+00:00"
+      "snapshotAt": "2026-10-22T23:14:49.723025+00:00"
     }
   },
   "rules": {
@@ -25,7 +25,7 @@
       "reviewCount": 15103,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 5,
       "labels": [
@@ -41,7 +41,7 @@
       "reviewCount": 845,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 2,
       "observations24h": 5,
       "labels": [
@@ -57,7 +57,7 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 5,
       "labels": [
@@ -73,7 +73,7 @@
       "reviewCount": 51591,
       "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 3,
       "observations24h": 5,
       "labels": [
@@ -89,7 +89,7 @@
       "reviewCount": 18132,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 14,
       "observations24h": 5,
       "labels": [
@@ -105,7 +105,7 @@
       "reviewCount": 20037,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 10,
       "observations24h": 5,
       "labels": [
@@ -121,7 +121,7 @@
       "reviewCount": 6818,
       "itemUrl": "https://item.rakuten.co.jp/e-kurashi/s1u57/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 8,
       "observations24h": 5,
       "labels": [
