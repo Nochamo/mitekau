@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T18:44:17.513582+00:00",
+  "generatedAt": "2026-10-24T22:24:25.872013+00:00",
   "comparison": {
     "4h": {
-      "status": "INSUFFICIENT_HISTORY",
-      "snapshotAt": null
+      "status": "OK",
+      "snapshotAt": "2026-10-24T18:44:17.513582+00:00"
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-23T19:55:24.252570+00:00"
+      "snapshotAt": "2026-10-23T23:03:18.616496+00:00"
     }
   },
   "rules": {
@@ -25,7 +25,7 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 10,
       "observations24h": 5,
       "labels": [
@@ -41,7 +41,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18865357/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -1,
       "observations24h": 5,
       "labels": [
@@ -57,7 +57,7 @@
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18865356/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 5,
       "labels": [
@@ -73,7 +73,7 @@
       "reviewCount": 15105,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -4,
       "observations24h": 5,
       "labels": [
@@ -89,7 +89,7 @@
       "reviewCount": 51598,
       "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": 1,
       "observations24h": 5,
       "labels": [
@@ -105,7 +105,7 @@
       "reviewCount": 845,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -7,
       "observations24h": 5,
       "labels": [
@@ -121,7 +121,7 @@
       "reviewCount": 3,
       "itemUrl": "https://item.rakuten.co.jp/book/18788651/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -14,
       "observations24h": 5,
       "labels": [
@@ -137,7 +137,7 @@
       "reviewCount": 30608,
       "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -11,
       "observations24h": 5,
       "labels": [
@@ -153,7 +153,7 @@
       "reviewCount": 18139,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -11,
       "observations24h": 5,
       "labels": [
@@ -169,7 +169,7 @@
       "reviewCount": 497,
       "itemUrl": "https://item.rakuten.co.jp/quads/qs549/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -11,
       "observations24h": 5,
       "labels": [
@@ -185,7 +185,7 @@
       "reviewCount": 20056,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -12,
       "observations24h": 5,
       "labels": [
@@ -201,7 +201,7 @@
       "reviewCount": 6828,
       "itemUrl": "https://item.rakuten.co.jp/e-kurashi/s1u57/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": null,
+      "change4h": 0,
       "change24h": -12,
       "observations24h": 5,
       "labels": [

@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
+  "fetchedAt": "2026-10-24T22:24:25.872013+00:00",
+  "lastBuildDate": "Sat, 24 Oct 2026 00:00:00 +0900",
+  "count": 30,
+  "items": [
+    {
+      "itemCode": "book:22130975",
+      "rank": 30,
+      "itemName": "【先着特典】KEY TERUYA2 ～キテルヤツ～(初回盤A(Blu-ray)＋初回盤B(Blu-ray)＋通常盤セット)(クリアファイル(A4)+ステッカーシート(A5)+フォトカード(A6)) [ KEY TO LIT ]",
+      "itemPrice": "4910",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18850425/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "e-kurashi:10048736",
+      "rank": 29,
+      "itemName": "コロ脚 中が透けない 壁付き チェスト スリム/ワイド 幅34/54 奥行41.5/41.7 高さ66.1/86.1/106.1cm 衣装ケース 収納ケース プラスチック 引き出し 洗面所 収納 子供部屋 クローゼット 隠す収納 ランドリーチェスト 壁付きチェスト 日本製 【送料無料】",
+      "itemPrice": "4999",
+      "reviewAverage": "4.42",
+      "reviewCount": 6828,
+      "itemUrl": "https://item.rakuten.co.jp/e-kurashi/s1u57/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10001520",
+      "rank": 28,
+      "itemName": "お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 20056,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "mb:10268729",
+      "rank": 27,
+      "itemName": "ポロラルフローレン POLO RALPH LAUREN マフラー メンズ レディース pc0455 002【返品送料無料】[2026AW]",
+      "itemPrice": "10500",
+      "reviewAverage": "4.5",
+      "reviewCount": 6,
+      "itemUrl": "https://item.rakuten.co.jp/mb/pc0455/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "quads:10000095",
+      "rank": 26,
+      "itemName": "【QUADS公式】[12月中旬~発送] スチーム加湿器 GLASS グラス ガラスポッド式 大容量 2.6L 上部給水 最大17畳 最大加湿650ml/h 抗菌 LEDライト 間接照明 2段階調整 クワッズ公式【メーカー保証付き】",
+      "itemPrice": "19800",
+      "reviewAverage": "4.56",
+      "reviewCount": 497,
+      "itemUrl": "https://item.rakuten.co.jp/quads/qs549/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 25,
+      "itemName": "【最安値に挑戦中！】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2550",
+      "reviewAverage": "4.66",
+      "reviewCount": 18139,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "candymagic:10000575",
+      "rank": 24,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30608,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22082298",
+      "rank": 23,
+      "itemName": "【先着特典】Moonlit (通常盤)(NANIWA DANSHI TRADING CARD PACK ～ムーンライトコレクション～《EDITION2》) [ なにわ男子 ]",
+      "itemPrice": "1320",
+      "reviewAverage": "4.33",
+      "reviewCount": 3,
+      "itemUrl": "https://item.rakuten.co.jp/book/18788651/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012323",
+      "rank": 22,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　ちいかわ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171616/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012312",
+      "rank": 21,
+      "itemName": "【ボンボンドロップシール】mofusand 　うさにゃん",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171628/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012311",
+      "rank": 20,
+      "itemName": "【ボンボンドロップシール】mofusand ドーナツにゃん",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171629/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yunth:10000137",
+      "rank": 19,
+      "itemName": "＼新発売!!／【送料無料】 Yunth ピュアマスク Pure Mask 大容量ボックスタイプ 28枚入り｜生ビタミンC 生レチノール 生アゼライン酸｜シートマスク パック フェイスパック 毎日 おすすめ｜ユンス ゆんす",
+      "itemPrice": "2640",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/yunth/yb-127-001/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "abc-mart:10149805",
+      "rank": 18,
+      "itemName": "レディース 【ADIDAS】 アディダス GRAND COURT MULE グランドコート ミュール JS4997",
+      "itemPrice": "9350",
+      "reviewAverage": "4.5",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/abc-mart/7148750001/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 17,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14780",
+      "reviewAverage": "4.76",
+      "reviewCount": 845,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "suntorywellness:10000713",
+      "rank": 16,
+      "itemName": "ひざ肌W コラーゲン＆セラミド 14包入（約14日分）/ 30包入（約30日分）",
+      "itemPrice": "3599",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/suntorywellness/43491/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "rakkenshop:10000002",
+      "rank": 15,
+      "itemName": "【楽券_eギフト】サーティワン 500円",
+      "itemPrice": "500",
+      "reviewAverage": "4.63",
+      "reviewCount": 3124,
+      "itemUrl": "https://item.rakuten.co.jp/rakkenshop/rakken_107-137/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012322",
+      "rank": 14,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　ハチワレ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171617/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pepper-mint:10000344",
+      "rank": 13,
+      "itemName": "バムとケロ ぬいぐるみ バム＆ケロセットS リュック付き【宅配便（追跡あり）送料無料】",
+      "itemPrice": "11220",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/pepper-mint/90751/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012319",
+      "rank": 12,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　モモンガ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171620/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 11,
+      "itemName": "【最大10万P当たる!?】おせち 福袋 2027 3〜4人前以上保証 高級おせちを含む56種から1種をお届け 冷蔵 送料無料 予約 お節料理【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖【10/31 23:59迄エントリーで】",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51598,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 10,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 15105,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "and-a-me:10000023",
+      "rank": 9,
+      "itemName": "予約価格【11月下旬～12月上旬発送】人気コスメがまとめてお得に★ mileda 選べるコスメ ミレダ ファンデーション リペアセラム 美容液 ／ mileda ミレダ 楽天 (04) wbc m-992",
+      "itemPrice": "1592",
+      "reviewAverage": "4.33",
+      "reviewCount": 613,
+      "itemUrl": "https://item.rakuten.co.jp/and-a-me/99204/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012320",
+      "rank": 8,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　うさぎ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171618/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22145109",
+      "rank": 7,
+      "itemName": "【楽天ブックス限定特典】1OC Vol.10(集合ポストカード1枚（ラッキードロー商品「F賞」と同じもの）) （TJMOOK）",
+      "itemPrice": "1760",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18871517/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012318",
+      "rank": 6,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　みんな　ニコニコ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171622/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012321",
+      "rank": 5,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　ちいかわ×ハチワレ×うさぎ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171619/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22143014",
+      "rank": 4,
+      "itemName": "【楽天ブックス限定先着特典+先着特典】【クレジットカード決済限定】【シリアル対象】TXT KR 9th MINI ‘PERFECT STORM’ (単品ランダム)(フォトカード1枚(全5種のうちランダム1種)+イベント応募用シリアルナンバー(10/31に配信)+応募抽選用シリアルナンバー)",
+      "itemPrice": "3190",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18865356/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vvstore:10012317",
+      "rank": 3,
+      "itemName": "【ボンボンドロップシール】ミニ　ちいかわ　みんな　ポーズ",
+      "itemPrice": "550",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/vvstore/6171623/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22143007",
+      "rank": 2,
+      "itemName": "【楽天ブックス限定先着特典+先着特典】【クレジットカード決済限定】【シリアル対象】TXT KR 9th MINI ‘PERFECT STORM(STORM IS COMING Ver.) (単品ランダム)(フォトカード1枚+イベント応募用シリアルナンバー(10/31に配信)+応募抽選用シリアルナンバー)",
+      "itemPrice": "2420",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18865357/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22095438",
+      "rank": 1,
+      "itemName": "ゼルダの伝説 時のオカリナ",
+      "itemPrice": "7768",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    }
+  ]
+}
