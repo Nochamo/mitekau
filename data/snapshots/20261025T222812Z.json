@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
+  "fetchedAt": "2026-10-25T22:28:12.111040+00:00",
+  "lastBuildDate": "Sun, 25 Oct 2026 00:00:00 +0900",
+  "count": 29,
+  "items": [
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 30,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14780",
+      "reviewAverage": "4.76",
+      "reviewCount": 846,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "asiabnc:10000078",
+      "rank": 29,
+      "itemName": "★クーポン利用で300円オフ！【ロムアンド公式】ベターザンパレット rom&nd official 全13色 romand Better than Palette アイシャドウ アイパレット 韓国メイク 韓国コスメ ロムアンド公式ショップ",
+      "itemPrice": "2000",
+      "reviewAverage": "4.56",
+      "reviewCount": 168,
+      "itemUrl": "https://item.rakuten.co.jp/asiabnc/palette_001/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "meri:10001265",
+      "rank": 28,
+      "itemName": "ROOMコラボ　えりん×MERI　ボアジャケット",
+      "itemPrice": "15990",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/meri/a261001/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "miyakonojo:10000629",
+      "rank": 27,
+      "itemName": "＼数量限定 40％OFFクーポン／宮崎県産エビス鶏 もも肉 むね肉 4kgセット 大容量 宮崎県産鶏肉 鶏もも肉や鶏むね肉をボリューム満点でお届け ジューシーで食べ応えのあるエビス鶏を大容量4kgでお届けします☆国産 宮崎県産 唐揚げ チキン南蛮 業務用 冷蔵配送",
+      "itemPrice": "6400",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/miyakonojo/10000595/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "furumiyashop:10000146",
+      "rank": 26,
+      "itemName": "【クーポン利用で最安2235円】楽天1位26冠！モバイルバッテリー 大容量 23600mAh PD22.5W 急速充電 Type-C出入力 4本ケーブル内蔵 軽量 iphone スマホ充電器 携帯充電器 タイプc対応 残量表示 LEDライト 防災グッズ PSE認証済 Lightning iPhone/Android全機種対応",
+      "itemPrice": "2980",
+      "reviewAverage": "4.51",
+      "reviewCount": 6763,
+      "itemUrl": "https://item.rakuten.co.jp/furumiyashop/cdb00p60/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "imadoki:10018182",
+      "rank": 25,
+      "itemName": "【ゆうパケットで送料無料】FUJIFILM・富士フィルム スクエア2P instax SQUARE SQ10 SQ6 SP-3に対応したフィルム チェキスクエア用フィルム 2P INSTAX SQUARE WW2【転送不可】【unable to transfer】【スーパーロジ】",
+      "itemPrice": "2660",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/imadoki/square2p-1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "whithwhite:10000218",
+      "rank": 24,
+      "itemName": "【ご新規様限定】半額クーポン有！10/24 20:00~10/27 09:59まで！ルームフレグランス ディフューザー リードディフューザー 芳香剤 スティック　ギフトにもフィス ホワイト 日本製 200mlWHITH WHITE",
+      "itemPrice": "3980",
+      "reviewAverage": "4.62",
+      "reviewCount": 1158,
+      "itemUrl": "https://item.rakuten.co.jp/whithwhite/906b0bgx9pw2r/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vanilla:10003241",
+      "rank": 23,
+      "itemName": "切れはし福袋(送料無料)[11/6着迄]",
+      "itemPrice": "2970",
+      "reviewAverage": "4.49",
+      "reviewCount": 807,
+      "itemUrl": "https://item.rakuten.co.jp/vanilla/700e-ptc/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "superdeal:10004731",
+      "rank": 22,
+      "itemName": "マイクロソフト Office Home 2024【おひとり様5枚限り】",
+      "itemPrice": "41360",
+      "reviewAverage": "4.75",
+      "reviewCount": 950,
+      "itemUrl": "https://item.rakuten.co.jp/superdeal/14070mshome2410/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 21,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 15108,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "mb:10268729",
+      "rank": 20,
+      "itemName": "ポロラルフローレン POLO RALPH LAUREN マフラー メンズ レディース pc0455 002【返品送料無料】[2026AW]",
+      "itemPrice": "10500",
+      "reviewAverage": "4.5",
+      "reviewCount": 6,
+      "itemUrl": "https://item.rakuten.co.jp/mb/pc0455/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "ajew-ascene:10000321",
+      "rank": 19,
+      "itemName": "【公式店】【manaodaysさんコラボ】【iPhone case】ajew cadenas ostrich-embossed zipphone case エジュー スマホケース iPhoneケース 携帯ケース 紐付き リップケース ショルダーストラップ オーストリッチ調 型押し 上品 モード 大人かわいい カード入れ 贈り物 ギフト",
+      "itemPrice": "9900",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/ajew-ascene/mo02_001/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "matsuya:10000095",
+      "rank": 18,
+      "itemName": "S【27日まで限定！最大59%OFF！1食194円〜】牛めしの具 プレミアム仕様 120g 選択制 大容量リピ確定BOX 松屋 公式 牛めし 牛丼の具 牛肉 肉 まつや 牛丼 食品 冷凍食品 送料無料 非常食 セール 半額",
+      "itemPrice": "2790",
+      "reviewAverage": "4.63",
+      "reviewCount": 1914,
+      "itemUrl": "https://item.rakuten.co.jp/matsuya/us30-1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "evercloset:10001644",
+      "rank": 17,
+      "itemName": "【アライさん楽天ROOMコラボ】親子で楽しむ 綿100%ふんわりキルトパジャマ | キッズ レディース ママ 子供服 女の子 男の子 親子 お揃い ルームウェア 上下セット 長袖 長ズボン アライ AI ARAI 90cm 100cm 110cm 120cm 130cm 140cm M L 26AW",
+      "itemPrice": "4580",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/evercloset/263276003/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "contribution:10000960",
+      "rank": 16,
+      "itemName": "Nissyプロデュース 柔軟剤 パーシャ キンモクセイ3点セット【楽天ランキング1位】P-sha ニッシー 静電気 部屋干し 無添加 オーガニック 花粉 赤ちゃん 抗菌 防臭 消臭 詰め替え おしゃれ着 ふわふわ 毛玉 敏感肌 低刺激",
+      "itemPrice": "3446",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/contribution/p-sha_kinmokuseiset/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 15,
+      "itemName": "【最大10万P当たる!?】おせち 福袋 2027 3〜4人前以上保証 高級おせちを含む56種から1種をお届け 冷蔵 送料無料 予約 お節料理【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖【10/31 23:59迄エントリーで】",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51605,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10001520",
+      "rank": 14,
+      "itemName": "今夜23:59まで楽天カードでP5倍！お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 20071,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 13,
+      "itemName": "【10/25限定！店内全品10％OFFクーポン】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2370",
+      "reviewAverage": "4.66",
+      "reviewCount": 18150,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yamagoiida:10000148",
+      "rank": 12,
+      "itemName": "【27日正午まで半額！最大6,490円OFF】〈無塩〉骨取り銀さけ 訳あり 鮭（選べる1kg・2kg）｜骨取り鮭 骨なし チリ産 養殖 鮭 さけ サケ 銀鮭 厚切り 切身 冷凍 ストック 業務用 食品 離乳食 お弁当 アスタキサンチン 一部地域除き 送料無料",
+      "itemPrice": "3990",
+      "reviewAverage": "4.8",
+      "reviewCount": 6034,
+      "itemUrl": "https://item.rakuten.co.jp/yamagoiida/10000120/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "biccamera:15315331",
+      "rank": 11,
+      "itemName": "ソニー・インタラクティブエンタテインメント｜SIE PlayStation5 デジタル・エディション 日本語専用 Console Language: Japanese only CFI-2200B01",
+      "itemPrice": "55000",
+      "reviewAverage": "4.27",
+      "reviewCount": 59,
+      "itemUrl": "https://item.rakuten.co.jp/biccamera/4948872417419/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "asiabnc:10000396",
+      "rank": 10,
+      "itemName": "★数量限定【ロムアンド楽天公式店】10周年記念エディション メガパレット20色入り ザジューシーラスティングティント新作 3カラー ザジューシーラスティングティント ベターザンパレット コスメ福袋 韓国コスメ rom&nd 新作限定品 ロムアンド新作 ロムアンド限定品",
+      "itemPrice": "1320",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/asiabnc/10th_anniversary/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10036035",
+      "rank": 9,
+      "itemName": "74%OFF!【期間限定：999円～1,790円！】【年間ランキング4位】 ルームウェア さらてろリブ セットアップ 上下セット 長袖 ウエストゴム ハイウエスト 腹巻 ワンマイルウェア 【秋さらルームウェア上下セット】ロングパンツ/半袖がページ内最安",
+      "itemPrice": "999",
+      "reviewAverage": "4.29",
+      "reviewCount": 20740,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/to2305-1114/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "imokuniya:10000012",
+      "rank": 8,
+      "itemName": "【20％OFFで2990円⇒2392円 10/27 9:59まで】 芋國屋 干し芋 訳あり 1kg 国産 無添加 紅はるか 干しいも 切り落とし ダイエット おやつ お菓子 和菓子 さつまいも 送料無料 ギフト スイーツ 茨城県産 N1",
+      "itemPrice": "2392",
+      "reviewAverage": "4.56",
+      "reviewCount": 37383,
+      "itemUrl": "https://item.rakuten.co.jp/imokuniya/10000012/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "outletshoes:10017017",
+      "rank": 7,
+      "itemName": "【10/24 20時再販】 【新色発売】 送料無料 【はあちゅう×welleg】 スニーカー ROOMコラボ スリッポン レディース ハンズフリー 手を使わずに履ける 立ったまま履ける 痛くない 反射材 ウォーキングシューズ ママ メンズ 旅行 レジャー おでかけ 5営業日以内に発送",
+      "itemPrice": "5999",
+      "reviewAverage": "4.52",
+      "reviewCount": 1683,
+      "itemUrl": "https://item.rakuten.co.jp/outletshoes/65015/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "t-interior:10000256",
+      "rank": 6,
+      "itemName": "[4時間限定]15%OFFクーポン10/25 20時～ NERUS ふわとろ毛布 Air AirPremium 【正規品】 毛布 ブランケット もこもこ毛布 モコモコ とろとろ ふわふわ シングル セミダブル ダブル ハーフ ふわもこ ふわとろ ポコポコ ひざ掛け 6層 厚手 秋冬 Branchpoint",
+      "itemPrice": "2980",
+      "reviewAverage": "4.73",
+      "reviewCount": 3931,
+      "itemUrl": "https://item.rakuten.co.jp/t-interior/htc50/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:21800394",
+      "rank": 5,
+      "itemName": "PlayStation5 デジタル・エディション 日本語専用 Console Language: Japanese only",
+      "itemPrice": "55000",
+      "reviewAverage": "4.58",
+      "reviewCount": 86,
+      "itemUrl": "https://item.rakuten.co.jp/book/18440637/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yamagoiida:10000077",
+      "rank": 4,
+      "itemName": "【27日正午まで半額！最大4,990円OFF】〈無塩〉 骨取りさば 北欧産 訳あり （選べる1kg・2kg）｜骨なし 骨抜き 鯖 天然 ノルウェー産 イギリス産 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン DHA EPA 一部地域除き 送料無料",
+      "itemPrice": "3490",
+      "reviewAverage": "4.78",
+      "reviewCount": 38160,
+      "itemUrl": "https://item.rakuten.co.jp/yamagoiida/10000077/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10034443",
+      "rank": 3,
+      "itemName": "74%OFF!【10/24 10時〜24H限定：999円～1,990円！】【楽天一位】パンツ ワイドパンツ レディース 秋 ストレッチ ワイドパンツ ズボン 美脚 ゆったり スウェット 通勤 部屋着 きれいめ 大きいサイズ 体型カバー 選べる丈 ピンタック ダブルウエスト B品がページ内最安",
+      "itemPrice": "999",
+      "reviewAverage": "4.14",
+      "reviewCount": 49490,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/pa2010-2536/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22095438",
+      "rank": 2,
+      "itemName": "ゼルダの伝説 時のオカリナ",
+      "itemPrice": "7768",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    }
+  ]
+}
