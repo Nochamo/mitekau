@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T22:28:12.111040+00:00",
+  "generatedAt": "2026-10-26T04:32:46.355131+00:00",
   "comparison": {
     "4h": {
-      "status": "OK",
-      "snapshotAt": "2026-10-25T18:55:31.503521+00:00"
+      "status": "INSUFFICIENT_HISTORY",
+      "snapshotAt": null
     },
     "24h": {
       "status": "OK",
-      "snapshotAt": "2026-10-24T22:24:25.872013+00:00"
+      "snapshotAt": "2026-10-25T04:29:02.950878+00:00"
     }
   },
   "rules": {
@@ -25,7 +25,7 @@
       "reviewCount": 2,
       "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": -1,
       "observations24h": 5,
       "labels": [
@@ -41,7 +41,7 @@
       "reviewCount": 18150,
       "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": 12,
       "observations24h": 5,
       "labels": [
@@ -57,7 +57,7 @@
       "reviewCount": 20071,
       "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": 14,
       "observations24h": 5,
       "labels": [
@@ -73,7 +73,7 @@
       "reviewCount": 51605,
       "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": -4,
       "observations24h": 5,
       "labels": [
@@ -89,7 +89,7 @@
       "reviewCount": 6,
       "itemUrl": "https://item.rakuten.co.jp/mb/pc0455/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": 7,
       "observations24h": 5,
       "labels": [
@@ -105,7 +105,7 @@
       "reviewCount": 15108,
       "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": -11,
       "observations24h": 5,
       "labels": [
@@ -121,7 +121,7 @@
       "reviewCount": 846,
       "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": "",
-      "change4h": 0,
+      "change4h": null,
       "change24h": -13,
       "observations24h": 5,
       "labels": [

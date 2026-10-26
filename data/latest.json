@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
-  "fetchedAt": "2026-10-25T22:28:12.111040+00:00",
+  "fetchedAt": "2026-10-26T04:32:46.355131+00:00",
   "lastBuildDate": "Sun, 25 Oct 2026 00:00:00 +0900",
-  "count": 29,
+  "count": 28,
   "items": [
     {
       "itemCode": "pricon:10003151",
@@ -53,16 +53,6 @@
       "reviewAverage": "4.51",
       "reviewCount": 6763,
       "itemUrl": "https://item.rakuten.co.jp/furumiyashop/cdb00p60/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": ""
-    },
-    {
-      "itemCode": "imadoki:10018182",
-      "rank": 25,
-      "itemName": "【ゆうパケットで送料無料】FUJIFILM・富士フィルム スクエア2P instax SQUARE SQ10 SQ6 SP-3に対応したフィルム チェキスクエア用フィルム 2P INSTAX SQUARE WW2【転送不可】【unable to transfer】【スーパーロジ】",
-      "itemPrice": "2660",
-      "reviewAverage": "5.0",
-      "reviewCount": 2,
-      "itemUrl": "https://item.rakuten.co.jp/imadoki/square2p-1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": ""
     },
     {
