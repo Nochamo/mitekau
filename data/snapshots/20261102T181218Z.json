@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
+  "fetchedAt": "2026-11-02T18:12:18.563239+00:00",
+  "lastBuildDate": "Mon, 02 Nov 2026 00:00:00 +0900",
+  "count": 29,
+  "items": [
+    {
+      "itemCode": "sk-ii:10003857",
+      "rank": 30,
+      "itemName": "【公式】フェイシャルトリートメント エッセンス コフレ2026 ホリデーコレクション ｜SK-2 / SK-II（エスケーツー） 正規品 送料無料 SK2 SKII ピテラ 美容液 スキンケア 誕生日 女性 化粧品 コスメ 妻 誕生日",
+      "itemPrice": "29150",
+      "reviewAverage": "4.44",
+      "reviewCount": 9,
+      "itemUrl": "https://item.rakuten.co.jp/sk-ii/set-ftec-holiday2026/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "shimin2:10000782",
+      "rank": 29,
+      "itemName": "［クーポン配布中※11/2追加予定］エクエル パウチ 120粒 3個セット【正規品】送料無料 大塚製薬 エクエル パウチ 120粒 × 3袋 セット 90日 大塚製薬 エクオール配合 サプリ 4粒で S-エクオール10mg配合 大豆イソフラボン サプリ エクエル 正規品 市民薬局 ［日本郵便］",
+      "itemPrice": "11129",
+      "reviewAverage": "4.69",
+      "reviewCount": 6802,
+      "itemUrl": "https://item.rakuten.co.jp/shimin2/4987035545613-3a-m/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "netbaby:10035957",
+      "rank": 28,
+      "itemName": "【1種類を選べる】メリーズ エアスルー パンツ 梱販販売用(3袋入×1箱)【メリーズ】[おむつ オムツ 紙おむつ 紙オムツ さらさらエアスルー]",
+      "itemPrice": "6460",
+      "reviewAverage": "4.83",
+      "reviewCount": 4116,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404758/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "h2brothers:10001880",
+      "rank": 27,
+      "itemName": "【20%OFFcp★防臭袋全回数分付き★日本防災安全協会認証品】簡易トイレ 非常用トイレ 防災グッズ 防災 非常用簡易トイレ 携帯トイレ 災害用トイレ 60〜600回 15年保存 凝固剤 ONESTEP",
+      "itemPrice": "1180",
+      "reviewAverage": "4.56",
+      "reviewCount": 10822,
+      "itemUrl": "https://item.rakuten.co.jp/h2brothers/portabletoilet01/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10001552",
+      "rank": 26,
+      "itemName": "11/2/23:59まで★ポイント10倍確定！お試し送料無料2,990円～「有塩or無塩」「骨ありor骨なし」が選べる！【有塩のみ11/9以降発送】⇒脂のり抜群の銀鮭 切り身 業務用 1kg お試し お中元 ギフト プレゼント 【P】",
+      "itemPrice": "2990",
+      "reviewAverage": "4.64",
+      "reviewCount": 5567,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/210069/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "wwpc:10064892",
+      "rank": 25,
+      "itemName": "ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト(4kg)【ロイヤルカナン療法食】",
+      "itemPrice": "9198",
+      "reviewAverage": "4.66",
+      "reviewCount": 2880,
+      "itemUrl": "https://item.rakuten.co.jp/wwpc/3182550901215/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "dajie:10000000",
+      "rank": 24,
+      "itemName": "【本日限定！15％OFF！】 公式 スツーレ® 簡易トイレ 非常用トイレ 携帯トイレ 防災トイレ 折りたたみ 耐荷重100kg 排便袋＆凝固剤付き 軽量 2サイズ ポータブルトイレ 災害 防災 非常用 防災グッズ",
+      "itemPrice": "3380",
+      "reviewAverage": "4.63",
+      "reviewCount": 6800,
+      "itemUrl": "https://item.rakuten.co.jp/dajie/stoole/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10000128",
+      "rank": 23,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー モイスト 90枚パック 2箱セット 1日使い捨て コンタクトレンズ （コンタクト ワンデー / ジョンソン&ジョンソン / 1day）",
+      "itemPrice": "13530",
+      "reviewAverage": "4.66",
+      "reviewCount": 8180,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "t-interior:10000256",
+      "rank": 22,
+      "itemName": "NERUS ふわとろ毛布 Air AirPremium 【正規品】 毛布 ブランケット もこもこ毛布 モコモコ とろとろ ふわふわ シングル セミダブル ダブル ハーフ ふわもこ ふわとろ ポコポコ ひざ掛け 6層 厚手 秋冬 Branchpoint",
+      "itemPrice": "2980",
+      "reviewAverage": "4.73",
+      "reviewCount": 4096,
+      "itemUrl": "https://item.rakuten.co.jp/t-interior/htc50/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000014",
+      "rank": 21,
+      "itemName": "【食フェスクーポンあり♪11/3まで】水 ミネラルウォーター 彩水-あやみず- やさしい軟水 500ml 48本 送料無料※一部地域除く ペットボトル ラベルレス ライフドリンクカンパニー LIFEDRINK 国産 天然水 軟水 備蓄水 非常用 (※採水地指定不可）",
+      "itemPrice": "2370",
+      "reviewAverage": "4.69",
+      "reviewCount": 4026,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/ayamizu-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lensfree:10000056",
+      "rank": 20,
+      "itemName": "メダリストワンデープラス 90枚パック ×2箱セット ボシュロム コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て",
+      "itemPrice": "5705",
+      "reviewAverage": "4.78",
+      "reviewCount": 2025,
+      "itemUrl": "https://item.rakuten.co.jp/lensfree/bl1dmp90-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "candymagic:10000575",
+      "rank": 19,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30762,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "scope:10108232",
+      "rank": 18,
+      "itemName": "【12月11日9:59まで期間限定価格！さらに20%オフクーポン対象】アラビア ルノ オーバルボウル 23cm フロストベリー ルノートおまけ付 [ Arabia Runo Frostberry ] フルーツボウル サラダボウル 北欧食器",
+      "itemPrice": "7900",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/scope/ara79a11111/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yama-oatmeal-institute:10000024",
+      "rank": 17,
+      "itemName": "「クーポン利用で10kg3,580円」 令和8年産 70％以上使用 国産 ブレンド米 極味精米 5kg 10kg 20kg ( きわみせいまい こめ お米 米 白米 全国 送料無料 （北海道 沖縄 離島含む） ブレンド米 安い 生活応援米 備蓄米 不使用 10キロ 5キロ ) 山川食糧",
+      "itemPrice": "2280",
+      "reviewAverage": "4.48",
+      "reviewCount": 6580,
+      "itemUrl": "https://item.rakuten.co.jp/yama-oatmeal-institute/kiwamiseimai10/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pykespeak:10002322",
+      "rank": 16,
+      "itemName": "【10％OFFクーポン！期間限定】＼総合ランキング1位獲得／ 簡易トイレ 非常用トイレ 災害用 携帯トイレ 防災 防災グッズ 非常用簡易トイレ 災害 災害用品 ポータブルトイレ 凝固剤付 排便袋付 防災トイレ 備蓄 車用 台風 避難グッズ 地震対策グッズ",
+      "itemPrice": "5380",
+      "reviewAverage": "4.47",
+      "reviewCount": 1273,
+      "itemUrl": "https://item.rakuten.co.jp/pykespeak/p0244/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 15,
+      "itemName": "【食フェスクーポンあり♪11/3まで】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2550",
+      "reviewAverage": "4.66",
+      "reviewCount": 18250,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "netbaby:10028658",
+      "rank": 14,
+      "itemName": "【1種類を選べる】パンパース オムツ さらさらケア パンツ(1セット)【パンパース】[さらさらケア]",
+      "itemPrice": "4950",
+      "reviewAverage": "4.82",
+      "reviewCount": 9212,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404313/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10001520",
+      "rank": 13,
+      "itemName": "11/2/23:59まで★ポイント10倍確定！お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 20238,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22103916",
+      "rank": 12,
+      "itemName": "MILESixTONES(初回盤＋通常盤 Blu-rayセット)【Blu-ray】 [ SixTONES ]",
+      "itemPrice": "13649",
+      "reviewAverage": "5.0",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/book/18814391/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "netbaby:10028506",
+      "rank": 11,
+      "itemName": "【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】",
+      "itemPrice": "5577",
+      "reviewAverage": "4.79",
+      "reviewCount": 8893,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 10,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 15139,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 9,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14780",
+      "reviewAverage": "4.76",
+      "reviewCount": 854,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "r1-shop:10000062",
+      "rank": 7,
+      "itemName": "「楽天総合1位」「半永久保存 防災士監修」簡易トイレ 非常用トイレセット 防災用品 防災グッズ 防災セット 50+10回分 非常用簡易トイレ 防臭袋 アウトドア 介護用 防災 携帯トイレ 台風 洪水 災害時 断水時 簡単使用 長期保存",
+      "itemPrice": "1280",
+      "reviewAverage": "4.5",
+      "reviewCount": 7431,
+      "itemUrl": "https://item.rakuten.co.jp/r1-shop/csd-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "hiromifashionhouse:10005004",
+      "rank": 6,
+      "itemName": "【全回数25％OFFクーポン】楽天総合1位 簡易トイレ 非常用トイレセット 防災トイレ 防災備蓄 防災士監修 愛知県企業開発 凝固剤10g 抗菌消臭 専用硬紙箱 15年保存 20～500回分 防臭袋・便座カバー付 災害 断水 停電 防災用品 法人・大口購入OK",
+      "itemPrice": "1580",
+      "reviewAverage": "4.51",
+      "reviewCount": 7260,
+      "itemUrl": "https://item.rakuten.co.jp/hiromifashionhouse/mkhrm60f/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kyunan:10020444",
+      "rank": 5,
+      "itemName": "＼総合ランキング1位／ ななつのしあわせミックスナッツ 1kg (500g×2袋) 無塩 送料無料 クルミ アーモンド ピーカンナッツ カシューナッツ マカデミアナッツ ヘーゼルナッツ ピスタチオ| 素焼き お得用 大容量 おやつ",
+      "itemPrice": "3980",
+      "reviewAverage": "4.72",
+      "reviewCount": 5845,
+      "itemUrl": "https://item.rakuten.co.jp/kyunan/happy-seven-nuts/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "dajie:10000003",
+      "rank": 4,
+      "itemName": "【本日限定！15％OFF！】 公式 スツーレ® 簡易トイレ 非常用トイレ 防災トイレ 携帯トイレ 凝固剤 15年保存 10回 50回 120回 ポータブルトイレ 抗菌消臭 排便袋付 持ち運び 車中泊 防災 災害用 非常用 防災グッズ",
+      "itemPrice": "3480",
+      "reviewAverage": "4.61",
+      "reviewCount": 1907,
+      "itemUrl": "https://item.rakuten.co.jp/dajie/stoole_powder/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 3,
+      "itemName": "【1の日P最大3倍】おせち 福袋 2027 3〜4人前以上保証 高級おせちを含む56種から1種をお届け 冷蔵 送料無料 予約 お節料理【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖【11/1 00:00〜23:59迄エントリー他で】",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51679,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22095438",
+      "rank": 2,
+      "itemName": "ゼルダの伝説 時のオカリナ",
+      "itemPrice": "7768",
+      "reviewAverage": "5.0",
+      "reviewCount": 3,
+      "itemUrl": "https://item.rakuten.co.jp/book/18805198/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "zoff:10004562",
+      "rank": 1,
+      "itemName": "|【Zoff 福袋2027 】〈12月上旬頃から順次発送〉ゾフ店舗で使える10,000円のメガネ券・調光レンズクーポン付き！ 在庫なくなり次第販売終了 LISA LARSON メガネラグ メガネマット メガネ置き リサラーソン マイキー メガネ 福袋 lucky bag レディース メンズ",
+      "itemPrice": "6600",
+      "reviewAverage": "4.38",
+      "reviewCount": 1046,
+      "itemUrl": "https://item.rakuten.co.jp/zoff/lucky_bag_ec/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    }
+  ]
+}
