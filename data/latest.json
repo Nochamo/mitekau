@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
-  "fetchedAt": "2026-11-10T21:45:46.515365+00:00",
+  "fetchedAt": "2026-11-11T05:57:12.722291+00:00",
   "lastBuildDate": "Tue, 10 Nov 2026 00:00:00 +0900",
-  "count": 30,
+  "count": 29,
   "items": [
     {
       "itemCode": "h2brothers:10001880",
@@ -203,16 +203,6 @@
       "reviewAverage": "0.0",
       "reviewCount": 0,
       "itemUrl": "https://item.rakuten.co.jp/book/18887723/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": ""
-    },
-    {
-      "itemCode": "byurjapan:10000196",
-      "rank": 10,
-      "itemName": "【クーポン利用で50%OFF】ByUR × せよ 崩れしらず 毛穴カバーセット 神トク 限定セット トーンアップUV クッションファンデ ルースパウダー ブラシ 下地 乾燥 毛穴 くすみ ハイカバー 透明 ツヤ ベースメイク 美白 皮脂 崩れにくい 保湿 密着 毛穴ケア テカリ",
-      "itemPrice": "6200",
-      "reviewAverage": "4.94",
-      "reviewCount": 16,
-      "itemUrl": "https://item.rakuten.co.jp/byurjapan/2611_kamitoku/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": ""
     },
     {
