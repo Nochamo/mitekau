@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
-  "fetchedAt": "2026-11-12T06:59:26.741695+00:00",
+  "fetchedAt": "2026-11-12T16:45:01.699323+00:00",
   "lastBuildDate": "Thu, 12 Nov 2026 00:00:00 +0900",
-  "count": 28,
+  "count": 29,
   "items": [
     {
       "itemCode": "supernice-store:10000011",
@@ -273,6 +273,16 @@
       "reviewAverage": "4.39",
       "reviewCount": 1057,
       "itemUrl": "https://item.rakuten.co.jp/zoff/lucky_bag_ec/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "edion:10828588",
+      "rank": 2,
+      "itemName": "Meta Meta Quest 3 512GB VRヘッドセット /解像度が30%向上 /2倍のグラフィック処理性能/ ワイヤレスのVR体験 /100種類以上のゲームにアクセスできるMeta Horizon+の3か月無料体験付き 899-00594-01 [8990059401]",
+      "itemPrice": "97000",
+      "reviewAverage": "3.67",
+      "reviewCount": 12,
+      "itemUrl": "https://item.rakuten.co.jp/edion/0815820024170/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
       "affiliateUrl": ""
     },
     {
