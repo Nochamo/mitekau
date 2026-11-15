@@ -1,20 +1,10 @@
 {
   "schemaVersion": 1,
   "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
-  "fetchedAt": "2026-11-14T23:49:39.239542+00:00",
+  "fetchedAt": "2026-11-15T06:12:50.311463+00:00",
   "lastBuildDate": "Sat, 14 Nov 2026 00:00:00 +0900",
-  "count": 30,
+  "count": 29,
   "items": [
-    {
-      "itemCode": "horistore-r:10000362",
-      "rank": 30,
-      "itemName": "【ホリ公式】【任天堂ライセンス商品】ワイヤードホリパッド TURBO for Nintendo Switch™ 2 ポケモン ブラッキー & エーフィ Starlight Night　ポケットモンスター　Switch2　スイッチ2　HORI　コントローラー　プロコン　かわいい",
-      "itemPrice": "5480",
-      "reviewAverage": "0.0",
-      "reviewCount": 0,
-      "itemUrl": "https://item.rakuten.co.jp/horistore-r/nsx-227/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
-      "affiliateUrl": ""
-    },
     {
       "itemCode": "lifedrinkcompany:10000022",
       "rank": 29,
