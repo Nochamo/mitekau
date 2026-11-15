@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
+  "fetchedAt": "2026-11-15T15:35:45.800501+00:00",
+  "lastBuildDate": "Sun, 15 Nov 2026 00:00:00 +0900",
+  "count": 30,
+  "items": [
+    {
+      "itemCode": "kouragumi:10000004",
+      "rank": 30,
+      "itemName": "店長大暴走★1,000円OFFクーポンで3,999円⇒送料無料2,999円！楽天ランキング1位＆楽天グルメ大賞受賞！ジャンボ広島かき1kg（解凍後850g/約26〜35粒）【カキ】【牡蠣】【かき】【送料無料】お中元 ギフト プレゼント 【P】",
+      "itemPrice": "3999",
+      "reviewAverage": "4.64",
+      "reviewCount": 19952,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/200002/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "hugria:10000022",
+      "rank": 29,
+      "itemName": "＼クーポン利用で20％OFF／ 敷きパッド 毛布 ブランケット 大判 モコモコ おしゃれ あったか 敷きパッド シングル ダブル セミダブル ベッドカバー 毛布 敷きパッド 冬 暖かい 洗える ドキ子 コラボ yuki FUWANEL Teddy 敷パッド 秋冬 寝具セット 寝具 ROOM 楽天ROOM",
+      "itemPrice": "6980",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/hugria/collabo01/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "candymagic:10000575",
+      "rank": 28,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30898,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10036035",
+      "rank": 27,
+      "itemName": "75%OFF！【24H限定：999〜1,699！】 【年間ランキング4位】ルームウェア レディース 上下セット 裏起毛タイプあり さらてろリブ 長袖 半袖 腹巻パンツ ハイウエスト ワイドパンツ ウエストゴム ストレッチ ショートパンツ/半袖がページ内最安[b_5980bag][b_5980bag]",
+      "itemPrice": "999",
+      "reviewAverage": "4.28",
+      "reviewCount": 21044,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/to2305-1114/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "zoff:10004562",
+      "rank": 26,
+      "itemName": "|【Zoff 福袋2027 】〈12月上旬頃から順次発送〉ゾフ店舗で使える10,000円のメガネ券・調光レンズクーポン付き！ 在庫なくなり次第販売終了 LISA LARSON メガネラグ メガネマット メガネ置き リサラーソン マイキー メガネ 福袋 lucky bag レディース メンズ",
+      "itemPrice": "6600",
+      "reviewAverage": "4.39",
+      "reviewCount": 1059,
+      "itemUrl": "https://item.rakuten.co.jp/zoff/lucky_bag_ec/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "hanakosshop:10003686",
+      "rank": 25,
+      "itemName": "【部分即納】ファーコート レディース ボアコート フェイクファーコート フェイクファー パーカー ゆったりボアファーコート 冬毛皮コート フード ミディアム丈 アウター 無地 ビッグシルエット ブルゾン ボアジャケット おしゃれ オーバーサイズ 厚手＆防寒フード",
+      "itemPrice": "5680",
+      "reviewAverage": "3.95",
+      "reviewCount": 21,
+      "itemUrl": "https://item.rakuten.co.jp/hanakosshop/t58700095/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159800",
+      "rank": 24,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤1枚＋初回限定盤1枚）【イベント対象】(第4部/個別サイン会(田中洸希)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "13090",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885441/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159785",
+      "rank": 23,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤1枚＋初回限定盤1枚）【イベント対象】(第4部/個別サイン会(池田彪馬)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "13090",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885442/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10036320",
+      "rank": 22,
+      "itemName": "40%OFF【24H限定：1,990〜2,790！】 パンツ 元祖裏起毛 裏起毛 ニット デニム レディース フレアパンツ 秋冬 きれいめ レギンスパンツ ダンボールニット ポケット付き ストレッチ 美脚 脚長【フレアレギパン】通年ポケなしがページ内最安[y_3999bag][y_3999bag]",
+      "itemPrice": "1990",
+      "reviewAverage": "4.15",
+      "reviewCount": 4332,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/pa2311-3843/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22166298",
+      "rank": 21,
+      "itemName": "舞台『刀剣乱舞』出演キャスト/舞台『刀剣乱舞』10周年記念コンプリートアルバム [ V.A. ]",
+      "itemPrice": "7392",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18895719/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10000367",
+      "rank": 20,
+      "itemName": "今夜23:59まで楽天カードでP10倍以上★値上げ前に！【年末早得】3箱で1箱タダ★5,400円OFFクーポンで総重量2.4kg送料無料10,800円！楽天年間ランキング5年連続1位！お刺身OK！カット生ずわい蟹600g/総重量800g かに 蟹 カニ ズワイガニ ギフト お歳暮 【P】",
+      "itemPrice": "5400",
+      "reviewAverage": "4.36",
+      "reviewCount": 22015,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/100005/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 19,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 15207,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "masuyone:10000016",
+      "rank": 18,
+      "itemName": "本日23:59までP5倍以上！値上げ前に年末早割★6000円OFFクーポンで8960円〜送料無料＼2025年一番売れたカニ／ 選べる カニ 福袋最大3kg！メガ盛元祖カット済生ずわい蟹 生棒ポーション 爪肩肉3kg カニ刺し むき身 ズワイガニ カニしゃぶ プレゼント お歳暮 ギフト",
+      "itemPrice": "14960",
+      "reviewAverage": "4.32",
+      "reviewCount": 46765,
+      "itemUrl": "https://item.rakuten.co.jp/masuyone/130007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 17,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14780",
+      "reviewAverage": "4.76",
+      "reviewCount": 869,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159795",
+      "rank": 16,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤2枚）【イベント対象】(第1部/個別ミート＆グリート(池田彪馬)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "7480",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885390/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159790",
+      "rank": 15,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤2枚）【イベント対象】(第1部/個別ミート＆グリート(田中洸希)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "7480",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885389/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "e-kurashi:10048736",
+      "rank": 14,
+      "itemName": "コロ脚 中が透けない 壁付き チェスト スリム/ワイド 幅34/54 奥行41.5/41.7 高さ66.1/86.1/106.1cm 衣装ケース 収納ケース プラスチック 引き出し 洗面所 収納 子供部屋 クローゼット 隠す収納 ランドリーチェスト 壁付きチェスト 日本製 【送料無料】",
+      "itemPrice": "4999",
+      "reviewAverage": "4.42",
+      "reviewCount": 7024,
+      "itemUrl": "https://item.rakuten.co.jp/e-kurashi/s1u57/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "hanakosshop:10004419",
+      "rank": 13,
+      "itemName": "収納ボックス 56L 51.5*36*30CM 3個セット フタ付き 折りたたみ 災害用 折り畳み 新生活 おしゃれ コンテナー プラスチック 収納ケース 大容量 物入れ",
+      "itemPrice": "7880",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/hanakosshop/t86700204/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10038296",
+      "rank": 12,
+      "itemName": "70%OFF!【11/14 10時〜24H限定：6,690円→1,970円！】 即納 パンツ 裏起毛 元祖裏起毛 微起毛 カット起毛 ピンタック ワイドパンツ レディース きれいめ ウエストゴム 美脚 オフィス 通勤 レーヨン混 伸縮性 【 元祖裏起毛ピンタック入りワイドパンツ 】 ダークエンジェル",
+      "itemPrice": "1970",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/pa2010-2548/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159788",
+      "rank": 11,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤2枚）【イベント対象】(第3部/3ショット撮影会(Dグループ)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "7480",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885396/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159802",
+      "rank": 10,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤2枚）【イベント対象】(第3部/3ショット撮影会(Cグループ)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "7480",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885395/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "sockkobe:10014431",
+      "rank": 9,
+      "itemName": "【40%OFFクーポン】＼楽天月間1位／ルームウェア 部屋着 セットアップ リブモールニット 腹巻付き 上下セット(レディース 秋 冬 パジャマ 寝間着 暖かい あったか 長袖 ロングパンツ セット 可愛い 腹巻 ふわふわ リラックスウェア プレゼント ギフト もこもこ 温活)",
+      "itemPrice": "5830",
+      "reviewAverage": "4.61",
+      "reviewCount": 2435,
+      "itemUrl": "https://item.rakuten.co.jp/sockkobe/810379/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "irobotstore:10000599",
+      "rank": 8,
+      "itemName": "15日23:59まで 55%OFF 【サプライズデー】 8/21 新発売 公式 Roomba Plus 615 Combo ロボット + Wash Only 充電ステーション ルンバ オンライン限定 アイロボット ロボット掃除機 掃除ロボット 水拭き 高性能 iRobot roomba 日本 国内 正規品 メーカー保証 送料無料",
+      "itemPrice": "79800",
+      "reviewAverage": "4.37",
+      "reviewCount": 49,
+      "itemUrl": "https://item.rakuten.co.jp/irobotstore/v184060/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "book:22159786",
+      "rank": 7,
+      "itemName": "【楽天ブックス限定先着特典】【クレジットカード決済限定】STAR （通常盤2枚）【イベント対象】(第3部/3ショット撮影会(Bグループ)【11/15(日)ベルサール東京日本橋】) [ SUPER★DRAGON ]",
+      "itemPrice": "7480",
+      "reviewAverage": "0.0",
+      "reviewCount": 0,
+      "itemUrl": "https://item.rakuten.co.jp/book/18885394/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 6,
+      "itemName": "P必ず2倍ッ★福袋おせち 2027 3〜4人前以上保証 高級おせちを含む56種から1種をお届け 冷蔵 送料無料 予約 お節料理【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖【11/16 9:59迄エントリー不要】",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51816,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10037025",
+      "rank": 5,
+      "itemName": "50%OFF【期間限定：11,980円→5,990円！】 ファーブルゾン レディース フェイクファー フード付き パーカー ニット切替 ショート丈 ジップアップ アウター 秋冬 防寒 ポケット付き フェイクファー ドッキングニット[a_5980bag]",
+      "itemPrice": "5990",
+      "reviewAverage": "4.5",
+      "reviewCount": 2,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/ot2410-4509/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "irobotstore:10000562",
+      "rank": 4,
+      "itemName": "15日23:59まで 50%OFF 【サプライズデー】 公式 Roomba 205 DustCompactor Combo ルンバ アイロボット ロボット掃除機 お掃除ロボット 水拭き 床拭き 拭き掃除 マッピング 自動 ゴミ圧縮機能付き iRobot roomba 日本 国内 正規品 メーカー保証 延長保証 送料無料",
+      "itemPrice": "29800",
+      "reviewAverage": "4.33",
+      "reviewCount": 890,
+      "itemUrl": "https://item.rakuten.co.jp/irobotstore/l12/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10034443",
+      "rank": 3,
+      "itemName": "【24H限定：3,980→1,999！】【楽天一位】デニム風ニット パンツ ワイドパンツ レディース 裏起毛 秋冬 ストレッチ ズボン 美脚 ゆったり スウェット 通勤 きれいめ 大きいサイズ 体型カバー 選べる丈 ピンタック 元祖裏起毛[y_3999bag]",
+      "itemPrice": "1999",
+      "reviewAverage": "4.14",
+      "reviewCount": 49886,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/pa2010-2536/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "omosan:10000665",
+      "rank": 2,
+      "itemName": "【週末限定★福袋ポイント5倍】1.25万円以上相当！解凍不要「千賀屋の冷蔵おせち福袋」福袋 冷蔵 冷蔵おせちをランダムでお届け 2027 おせち料理 お節 予約 数量限定 送料無料",
+      "itemPrice": "11155",
+      "reviewAverage": "4.54",
+      "reviewCount": 289,
+      "itemUrl": "https://item.rakuten.co.jp/omosan/7347/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "irobotstore:10000588",
+      "rank": 1,
+      "itemName": "15日23:59まで 60%OFF 【サプライズデー】 公式 Roomba Plus 415 Combo + AutoWash ルンバ オンライン限定 アイロボット ロボット掃除機 掃除ロボット 水拭き 床拭き モップ自動洗浄 高性能 小型 iRobot roomba 日本 国内 正規品 メーカー保証 延長保証 送料無料",
+      "itemPrice": "47800",
+      "reviewAverage": "4.6",
+      "reviewCount": 161,
+      "itemUrl": "https://item.rakuten.co.jp/irobotstore/g285060/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    }
+  ]
+}
