@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "source": "Rakuten Ichiba Item Ranking API 2022-06-01",
+  "fetchedAt": "2026-11-22T16:11:16.919840+00:00",
+  "lastBuildDate": "Sun, 22 Nov 2026 00:00:00 +0900",
+  "count": 30,
+  "items": [
+    {
+      "itemCode": "lindt-chocolate:10002111",
+      "rank": 30,
+      "itemName": "≪クーポンご利用で50％OFF≫リンツ クリアランスバッグ 500g",
+      "itemPrice": "7200",
+      "reviewAverage": "4.52",
+      "reviewCount": 1111,
+      "itemUrl": "https://item.rakuten.co.jp/lindt-chocolate/clearance_l/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "toucher-home:10000264",
+      "rank": 29,
+      "itemName": "【1枚690円！20周年クーポン】 【12月より価格改定】 日本製 ホテルスタイルタオル ビッグフェイスタオル 【圧縮】 【お試しSALE】 楽天1位受賞 / 約40×100cm タオル 小さめ バスタオル 厚手 吸水 1枚 メディア掲載 #バスタオルやめました",
+      "itemPrice": "890",
+      "reviewAverage": "4.49",
+      "reviewCount": 118278,
+      "itemUrl": "https://item.rakuten.co.jp/toucher-home/10000264/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10000128",
+      "rank": 28,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー モイスト 90枚パック 2箱セット 1日使い捨て コンタクトレンズ （コンタクト ワンデー / ジョンソン&ジョンソン / 1day）",
+      "itemPrice": "13000",
+      "reviewAverage": "4.66",
+      "reviewCount": 8193,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/c-1dayms90-2p/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "nike-official:10006021",
+      "rank": 27,
+      "itemName": "【2時間限定50%OFF】ナイキ エバノン LOW NIKE メンズ スニーカー シューズ ライフスタイル ローカット 通勤 通学 レザー 白 オールホワイト 24cm-33cm aq1775-100 ライフスタイルシューズ ナイキ公式",
+      "itemPrice": "4730",
+      "reviewAverage": "4.33",
+      "reviewCount": 132,
+      "itemUrl": "https://item.rakuten.co.jp/nike-official/aq1775-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lensfree:10002076",
+      "rank": 26,
+      "itemName": "ワンデーアキュビューオアシス 90枚パック ×2箱セット コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て ジョンソン・エンド・ジョンソン",
+      "itemPrice": "14660",
+      "reviewAverage": "4.81",
+      "reviewCount": 2671,
+      "itemUrl": "https://item.rakuten.co.jp/lensfree/jj1dao90-2/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "candymagic:10000575",
+      "rank": 25,
+      "itemName": "カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合計 30枚入り カラー コンタクト コンタクトレンズ ワンデー レヴィア ナチュラル 自然 人気 ブラウン 度あり 度なし キャンマジ公式 2箱購入で＋1箱無料 送料無料 ネコポス",
+      "itemPrice": "3432",
+      "reviewAverage": "4.72",
+      "reviewCount": 30984,
+      "itemUrl": "https://item.rakuten.co.jp/candymagic/rv-100/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "vtcosmetic-official:10000773",
+      "rank": 24,
+      "itemName": "＼最大45％OFF＋ギフト+送料無料／ポムポムプリン コラボ★総合ランキング1位【VT 大容量 パック 2種セット】 スージング シート マスク セット (CICA 2X PDRN ビタミンC アスタキサンチン / TXトーニング AZケア コラーゲン レチナール) ペプチド 顔パック",
+      "itemPrice": "2904",
+      "reviewAverage": "4.54",
+      "reviewCount": 225,
+      "itemUrl": "https://item.rakuten.co.jp/vtcosmetic-official/soothingmask_set/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yunth:10000000",
+      "rank": 23,
+      "itemName": "★20％OFFFクーポン＋セット21日9:59マデ【Yunth 公式】生ビタミンC 美白美容液 1ml×28包 医薬部外品 | ユンス ゆんす 導入美容液 ブースター 先行美容液 スキンケア 生美容液 ビタミンC 毛穴ケア シミ対策 美白ケア くすみケア 保湿 敏感肌 無香料 アルコールフリー",
+      "itemPrice": "3960",
+      "reviewAverage": "4.69",
+      "reviewCount": 45503,
+      "itemUrl": "https://item.rakuten.co.jp/yunth/10000000/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "larocheposay:10000039",
+      "rank": 22,
+      "itemName": "楽天限定特典付き！★ポイント最大19倍★BLACK FRIDAY 11/19 20:00 - 11/25 23:59★【公式】トーンアップUV 楽天限定サンプル3点付きセット/BIG［30mL/ ローズ＋ / ホワイト/ クリア/ ティント/ ローズ＋ BIGサイズ 50mL / 日焼け止め / SPF50+ / 正規品/ ダーマコスメ］",
+      "itemPrice": "4070",
+      "reviewAverage": "4.69",
+      "reviewCount": 11823,
+      "itemUrl": "https://item.rakuten.co.jp/larocheposay/l00332ropenkit/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lifedrinkcompany:10000022",
+      "rank": 21,
+      "itemName": "【SALE2,370円〜※11/25 10:59まで】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+      "itemPrice": "2370",
+      "reviewAverage": "4.65",
+      "reviewCount": 18461,
+      "itemUrl": "https://item.rakuten.co.jp/lifedrinkcompany/zaosoda-500-48/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "norganic:10000076",
+      "rank": 20,
+      "itemName": "✩MAX1000円OFFクーポン✩【1時間で10000個突破】N organic Basic 福袋2027 60%OFF 豪華11点セット 数量限定 楽天限定 [ 化粧水 乳液 クレンジング 美容液 スキンケア セット 福袋 ギフト 大容量 nオーガニック エヌオーガニック ]",
+      "itemPrice": "11000",
+      "reviewAverage": "4.42",
+      "reviewCount": 3010,
+      "itemUrl": "https://item.rakuten.co.jp/norganic/nr-luckybag2022/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "33taiyo:10000020",
+      "rank": 19,
+      "itemName": "【最大19,000円OFFクーポン！+30日間トライアル】 ヒツジのいらない枕 枕 枕カバー 付ギフト クリスマス プレゼント 実用的 健康グッズ 誕生日 ギフト 洗える 通気性 寝用枕 うつぶせ寝 まくら ジェル 首 寝返り 横向き 仰向け いびき 予防 防止 tpe",
+      "itemPrice": "15800",
+      "reviewAverage": "4.52",
+      "reviewCount": 7801,
+      "itemUrl": "https://item.rakuten.co.jp/33taiyo/hitsuji/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "teamo:10001200",
+      "rank": 18,
+      "itemName": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+      "itemPrice": "1986",
+      "reviewAverage": "4.56",
+      "reviewCount": 15235,
+      "itemUrl": "https://item.rakuten.co.jp/teamo/pure_clear_1/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "irisplaza-r:10170526",
+      "rank": 17,
+      "itemName": "[200円OFFクーポン/超トク]＼5kgあたり約2,160円〜！☆彡／【令和8年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3袋) 密封新鮮パック 脱酸素剤入り 米 お米 国産 10キロ 15キロ 低温製法米 送料無料 アイリスオーヤマ",
+      "itemPrice": "4480",
+      "reviewAverage": "4.72",
+      "reviewCount": 9648,
+      "itemUrl": "https://item.rakuten.co.jp/irisplaza-r/113800/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "lindt-chocolate:10002178",
+      "rank": 16,
+      "itemName": "【公式】 リンツ Lindt チョコレート ブラックフライデーバッグ 2026 BlackFriday",
+      "itemPrice": "4980",
+      "reviewAverage": "4.93",
+      "reviewCount": 60,
+      "itemUrl": "https://item.rakuten.co.jp/lindt-chocolate/blackfriday_a/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yoshinoya-shop:10000945",
+      "rank": 15,
+      "itemName": "吉野家 公式 【冷凍】大盛牛丼の具(160g)×30袋セット【送料込】 簡単 便利 夜食 おつまみ 昼ごはん ストック 冷凍食品 お弁当 おかず クール宅急便 取り寄せ グルメ 牛丼",
+      "itemPrice": "9882",
+      "reviewAverage": "4.78",
+      "reviewCount": 131,
+      "itemUrl": "https://item.rakuten.co.jp/yoshinoya-shop/666508/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10000367",
+      "rank": 14,
+      "itemName": "本日23:59までP10倍以上確定★値上げ前に！【年末早得】3箱で1箱タダ★5,400円OFFクーポンで総重量2.4kg送料無料10,800円！楽天年間ランキング5年連続1位！お刺身OK！カット生ずわい蟹600g/総重量800g かに 蟹 カニ ズワイガニ ギフト お歳暮 【P】 生ズワイガニ セット",
+      "itemPrice": "5400",
+      "reviewAverage": "4.36",
+      "reviewCount": 22039,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/100005/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "zoff:10004562",
+      "rank": 13,
+      "itemName": "|【Zoff 福袋2027 】〈27年1月上旬頃から順次発送〉ゾフ店舗で使える10,000円のメガネ券・調光レンズクーポン付き！ 在庫なくなり次第販売終了 LISA LARSON メガネラグ メガネマット メガネ置き リサラーソン マイキー メガネ 福袋 レディース メンズ ブラックフライデー",
+      "itemPrice": "6600",
+      "reviewAverage": "4.39",
+      "reviewCount": 1067,
+      "itemUrl": "https://item.rakuten.co.jp/zoff/lucky_bag_ec/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "attenir:10000252",
+      "rank": 12,
+      "itemName": "【ポイント10倍！〜11月25日1:59】 大容量 スキンクリア クレンズ オイル 350mL 大容量 ボトル / つめかえ用 (4種) [クレンジング クレンジングオイル メイク落とし 毛穴 くすみ エイジングケア 洗顔 角質 角栓 詰め替え 毛穴クレンジング アテニア 公式]",
+      "itemPrice": "3630",
+      "reviewAverage": "4.8",
+      "reviewCount": 50536,
+      "itemUrl": "https://item.rakuten.co.jp/attenir/166013/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "netbaby:10028506",
+      "rank": 11,
+      "itemName": "【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】",
+      "itemPrice": "5577",
+      "reviewAverage": "4.79",
+      "reviewCount": 8962,
+      "itemUrl": "https://item.rakuten.co.jp/netbaby/404272/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kouragumi:10001520",
+      "rank": 10,
+      "itemName": "本日23:59までP3倍★最大12倍！相場高騰★値上げ前に！お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+      "itemPrice": "2490",
+      "reviewAverage": "4.51",
+      "reviewCount": 20641,
+      "itemUrl": "https://item.rakuten.co.jp/kouragumi/201175/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "renfrojapan:10000250",
+      "rank": 9,
+      "itemName": "【最大15%OFFクーポン！11/22まで】着るホカロン あったかインナー レディース 長袖 7分丈 綿混 カップなし Uネック バレーネック インナー S M L LL 3L 綿95％ インナーシャツ 肌着 下着 暖かい 吸湿発熱 冬 保温 あったか インナー 防寒 トップス ラグラン 大きいサイ",
+      "itemPrice": "1782",
+      "reviewAverage": "4.54",
+      "reviewCount": 2571,
+      "itemUrl": "https://item.rakuten.co.jp/renfrojapan/hkald05ec/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "pricon:10003151",
+      "rank": 8,
+      "itemName": "コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コンタクト （コンタクト ワンデー / アキュビュー / オアシス / ジョンソン&ジョンソン / クリアレンズ 1day）",
+      "itemPrice": "14660",
+      "reviewAverage": "4.76",
+      "reviewCount": 877,
+      "itemUrl": "https://item.rakuten.co.jp/pricon/k_jj_oa90z0_02_h/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "darkangel:10034443",
+      "rank": 7,
+      "itemName": "【特別価格：3,980円→1,999円！】【楽天一位】デニム風ニット パンツ ワイドパンツ レディース 裏起毛 秋冬 ストレッチ ズボン 美脚 ゆったり スウェット 通勤 きれいめ 大きいサイズ 体型カバー 選べる丈 ピンタック 元祖裏起毛[y_3999bag]",
+      "itemPrice": "1999",
+      "reviewAverage": "4.14",
+      "reviewCount": 50133,
+      "itemUrl": "https://item.rakuten.co.jp/darkangel/pa2010-2536/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "masuyone:10000016",
+      "rank": 6,
+      "itemName": "本日23:59まで最大P12倍以上！間もなく値上げ★その前に！早割6000円OFFクーポンで8960円〜送料無料＼2025年一番売れたカニ／ 選べる カニ 福袋 最大3kg！メガ盛元祖カット済生本ずわい蟹 生棒ポーション カニ足3kg カニ刺し むき身 ズワイガニ カニしゃぶ お歳暮 ギフト",
+      "itemPrice": "14960",
+      "reviewAverage": "4.32",
+      "reviewCount": 46788,
+      "itemUrl": "https://item.rakuten.co.jp/masuyone/130007/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "kanidokoro:10001780",
+      "rank": 5,
+      "itemName": "【P必ず2倍＆P10万当たる!?】福袋おせち 元祖 冷蔵 1.48万円以上、4-3人前以上保証 70万円や17万円を含む56種から1種をお届け 送料無料 売切御免 予約 お節料理【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節【11/24 09:59迄】",
+      "itemPrice": "12345",
+      "reviewAverage": "4.42",
+      "reviewCount": 51880,
+      "itemUrl": "https://item.rakuten.co.jp/kanidokoro/428/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "shuuemura:10000018",
+      "rank": 4,
+      "itemName": "【ポイント15倍 11/19 20:00～11/25 1:59まで】アルティム8∞ ベストセラーキット / ブライト クレンジングオイル キット | シュウウエムラクレンジング クレンジング 楽天市場店限定 洗顔 メイク落とし 毛穴 洗顔料 スキンケア 美容 化粧落とし 送料無料 楽天ベストコスメ",
+      "itemPrice": "6820",
+      "reviewAverage": "4.84",
+      "reviewCount": 36185,
+      "itemUrl": "https://item.rakuten.co.jp/shuuemura/shu30001jp/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yamagoiida:10000148",
+      "rank": 3,
+      "itemName": "【26日正午まで半額！最大6,490円OFF】〈無塩〉骨取り銀さけ 訳あり 鮭（選べる1kg・2kg）｜骨取り鮭 骨なし チリ産 養殖 鮭 さけ サケ 銀鮭 厚切り 切身 冷凍 ストック 業務用 食品 離乳食 お弁当 アスタキサンチン 一部地域除き 送料無料",
+      "itemPrice": "3990",
+      "reviewAverage": "4.81",
+      "reviewCount": 7107,
+      "itemUrl": "https://item.rakuten.co.jp/yamagoiida/10000120/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "suzuyaebisudo:10000425",
+      "rank": 2,
+      "itemName": "リンツ リンドール 訳あり 60粒 賞味期限間近 選べる4タイプ 9種アソート ミルク ダークミント ピスタチオ Lindt LINDOR チョコ クール便",
+      "itemPrice": "3600",
+      "reviewAverage": "4.42",
+      "reviewCount": 3356,
+      "itemUrl": "https://item.rakuten.co.jp/suzuyaebisudo/r-lindor-48-gsp/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    },
+    {
+      "itemCode": "yamagoiida:10000077",
+      "rank": 1,
+      "itemName": "【26日正午まで半額！最大4,990円OFF】〈無塩〉 骨取りさば 北欧産 訳あり （選べる1kg・2kg）｜骨なし 骨抜き 鯖 天然 ノルウェー産 イギリス産 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン DHA EPA 一部地域除き 送料無料　常備食",
+      "itemPrice": "3490",
+      "reviewAverage": "4.78",
+      "reviewCount": 38710,
+      "itemUrl": "https://item.rakuten.co.jp/yamagoiida/10000077/?rafcid=wsc_i_ra_bb670f34-102e-4448-b26c-65c82af0f897",
+      "affiliateUrl": ""
+    }
+  ]
+}
